@@ -1,0 +1,3 @@
+# Ideas
+
+Free-form notes, ideas, research...

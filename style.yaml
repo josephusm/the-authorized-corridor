@@ -1,0 +1,10 @@
+narrator: first-person
+pov: first-person
+tense: present
+tone: "analitico, critico, rigoroso ma accessibile"
+voice: "secco, pragmatico, non accademico sterile"
+rules:
+  - "Niente gergo accademico vuoto"
+  - "Esempi concreti per ogni astrazione"
+  - "Parole semplici per idee complesse"
+  - "La voce personale è legittima: è un saggio, non un manuale"

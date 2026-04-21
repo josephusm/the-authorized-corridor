@@ -1,0 +1,28 @@
+# Project
+type: essay
+
+# Identity
+title: "The Authorized Corridor"
+subtitle: "Verifica, provenance e resistenza illeggibile"
+
+# People
+author: "Josephus Miller"
+
+# Publication
+language: it
+genre: "saggio teorico"
+isbn: ""
+publisher: ""
+edition: 1
+date: "2026"
+
+# Build
+build_formats:
+    - html
+theme: default
+cover: ""
+
+# Legal
+license: All rights reserved
+license_url: ""
+copyright: "© 2026 Josephus Miller"
