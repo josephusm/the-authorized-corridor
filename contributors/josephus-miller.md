@@ -1,8 +1,9 @@
 ---
 name: Josephus Miller
-roles: []
+roles:
+  - author
 ---
 
 # Josephus Miller
 
-Biography...
+Scrittore e pensatore. Interessi: politica, epistemologia, infrastrutture, resistenza.
