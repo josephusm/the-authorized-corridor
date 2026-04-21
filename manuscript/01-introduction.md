@@ -1,6 +1,6 @@
 ---
 title: Introduction
-draft: true
+draft: 1
 ---
 
 # Introduction
