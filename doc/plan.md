@@ -23,7 +23,8 @@
 - [ ] Definire i collegamenti tra capitoli
 - [ ] Identificare le memorie da citare per ogni capitolo
 - [ ] Definire le fonti esterne da consultare (Caronia, Brusatte, Foucault, ecc.)
-- [ ] Verificare che ogni argomento in arguments/ sia sviluppato
+- [x] Verificare che ogni argomento in arguments/ sia sviluppato (2/5 completati)
+- [x] Definire concetti chiave (3/10 completati)
 
 ### Fase 3: Ricerca
 - [ ] Rileggere Antonio Caronia — "L'inconscio della macchina e il significante fluttuante"
@@ -93,3 +94,5 @@
 - La voce è personale (first-person) ma rigorosa
 - Esempi concreti per ogni astrazione
 - Le memorie del DB sono una fonte primaria: vanno citate e integrate
+
+**Session 2026-04-22**: Sviluppati 2 argomenti chiave (Parte I e II) con supporto e counterpoint, definiti 3 concetti (corridoio-autorizzato, verifica, provenance). Gli argomenti sviluppati forniscono il fondamento per i Capitoli 1-5. Prossimi step: sviluppare gli altri 3 argomenti e i concetti rimanenti.
