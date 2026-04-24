@@ -19,11 +19,11 @@
 - [x] Concetti chiave (10 concetti creati)
 
 ### Fase 2: Outline dettagliato
-- [ ] Espandere ogni capitolo con outline dettagliato (scene/argomenti/punti chiave)
-- [ ] Definire i collegamenti tra capitoli
-- [ ] Identificare le memorie da citare per ogni capitolo
+- [x] Espandere ogni capitolo con outline dettagliato (scene/argomenti/punti chiave)
+- [x] Definire i collegamenti tra capitoli
+- [x] Identificare le memorie da citare per ogni capitolo
 - [ ] Definire le fonti esterne da consultare (Caronia, Brusatte, Foucault, ecc.)
-- [x] Verificare che ogni argomento in arguments/ sia sviluppato (2/5 completati)
+- [ ] Verificare che ogni argomento in arguments/ sia sviluppato (3/5 completati)
 - [x] Definire concetti chiave (3/10 completati)
 
 ### Fase 3: Ricerca
@@ -96,3 +96,8 @@
 - Le memorie del DB sono una fonte primaria: vanno citate e integrate
 
 **Session 2026-04-22**: Sviluppati 2 argomenti chiave (Parte I e II) con supporto e counterpoint, definiti 3 concetti (corridoio-autorizzato, verifica, provenance). Gli argomenti sviluppati forniscono il fondamento per i Capitoli 1-5. Prossimi step: sviluppare gli altri 3 argomenti e i concetti rimanenti.
+
+**Session 2026-04-24**: Creati outline dettagliati per i Capitoli 1-2 (Parte I: Il dispositivo del corridoio). Integrate le letture di Foucault sulla parrhesia (#1290) e i materiali onirici scanner/telemetria/tangping (#1293). Gli outline definiscono:
+- Cap 1: Ammissibilità vs transitabilità (corridoio come filtro di desiderabilità, scanner come disassemblaggio, telemetria come sollievo percettivo)
+- Cap 2: Genealogia dello strumento (fuga che propaga l'architettura, formalizzazione vs performance, dilemma del custode, nascita dello scanner)
+Prossimi step: continuare con gli outline della Parte II, poi espandere gli argomenti rimanenti (2/5) e i concetti rimanenti (7/10).
