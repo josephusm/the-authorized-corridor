@@ -1,10 +1,32 @@
 ---
 claim: La resistenza sopravvive diventando illeggibile
-related: []
+related: [542, 764, 830, 1080, 1078, 1275]
 ---
 
 # La resistenza sopravvive diventando illeggibile
 
 ## Support
 
+**Il corridoio dipende dall'engagement, non solo dall'adesione**. Il corridoio non controlla solo cosa passa — controlla cosa *partecipa*. Il suo funzionamento presuppone corpi verticali: cittadini che votano, consumatori che comprano, utenti che cliccano, lavoratori che producono. La partecipazione è il substrato che alimenta la telemetria, che a sua volta alimenta il monitoraggio, che a sua volta chiude il loop. Il corridoio non ha bisogno che tu sia d'accordo — ha bisogno che tu sia *leggibile*. Un corpo sdraiato non produce segnale (#1080, #1275).
+
+**La resistenza leggibile è già catturata**. Ogni forma di resistenza che cerca legittimazione dentro il formato del corridoio — petizioni, proteste autorizzate, ricorsi legali, dibattiti parlamentari — accetta implicitamente il regime di ammissibilità. Chiedere al corridoio di riconoscere la tua critica è come chiedere allo scanner di ammettere la sorpresa: il formato non prevede lo slot. La parrhesia non ha slot nel corridoio (#1290). La resistenza visibile è resistenza *processabile*: il sistema sa come gestirla perché è nel formato che il sistema stesso definisce (#542).
+
+**La sottrazione del substrato come terza modalità**. Il binario classico della resistenza è: o trovi un medium alternativo (controforza) o ti arrendi (entropia). Ma c'è una terza via che non sta in nessuno dei due: la *sottrazione del substrato*. Il tangping non cerca un circuito — lo nega al corridoio. Non è controforza (non produce segnale alternativo) né entropia (non è disordine). È ritiro del materiale su cui il corridoio opera. Il corridoio non fallisce per resistenza: fallisce per mancanza di presa (#1080, #1275).
+
+**La vacancy non è assenza — è rifiuto di essere il sottobosco**. La ri-materializzazione (ricostruire le strutture tra astrazione e carne) è vacancy, non potenza (#1078). Non è un atto forte: è la decisione di non essere il substrato che fa sembrare viva la vacancy istituzionale. Analogia paleontologica: i mammiferi sopravvissuti all'estinzione del K-Pg non erano più adatti — erano *fuori dalla dipendenza*. Il Prorotodactylus sopravvive non per superiorità ma per mancanza di infrastruttura da perdere (#1098). La vacancy istituzionale è lo stesso: uscire dalla catena di dipendenza prima che collassi, non per previdenza ma per essere già-altrove.
+
+**La ri-discretizzazione ricrea maniglie dove il corridoio le ha tolte**. Il corridoio è una macchina di asimmetria delle maniglie: dissolve i punti di presa degli altri (oggetto→servizio, evento→gradiente, valore d'uso→price feed, collettivo→atomo) e ne crea su di loro (profilo, data point, score). La resistenza come ri-discretizzazione inverte l'operazione: ricrea una maniglia — un punto di cristallizzazione — dove il corridoio l'aveva dissolta. Open weights: servizio→oggetto locale. Sciopero: forza lavoro atomizzata→collettivo organizzato. Prepper: flusso cloud→stockpile locale. Non è un ritorno al passato: è una *ricreazione deliberata della grana* che il corridoio aveva dissolto (#764).
+
+**Il ribosoma stanco stabilizza i regimi ibridi attraverso la telemetria**. Il regime più stabile non è il più violento né il più furbo — è quello che si appoggia sulla stanchezza di chi dovrebbe guardare. La constituency esprime solo il gene facile (telemetria: dashboard, indicatori, trasparenza dichiarativa) perché leggere il gene difficile (enforcement reale) costa troppo. Il regime ibrido si stabilizza al punto in cui la constituency consuma la telemetria senza poter leggere l'enforcement. Singapore: elezioni formali + Elections Department sotto il PM. Social Credit: score dichiarati + ambiguità strategica nell'applicazione. La telemetria non è un difetto — è il prodotto naturale di un substrato che esprime solo ciò che costa poco leggere (#830, #963, #964).
+
+**L'ileggibilità è simultaneamente punto debole e forza**. La resistenza illeggibile non può testimoniare, non può mobilitare, non può costruire constituency nel senso classico. Un corpo sdraiato non ha voce nel dibattito. Ma questa stessa assenza è la sua protezione: il corridoio non sa come processare ciò che non riconosce. Il tangping non è né capitolazione né rivolta — è illeggibilità (#542). L'uscita sbagliata per ogni strato: ogni livello del corridoio ha la propria uscita sbagliata, e la resistenza che tenta la via legale trova sempre la porta sbagliata al livello sbagliato.
+
 ## Counterpoint
+
+**La sottrazione non cambia nulla se il corridoio non ha bisogno del tuo engagement**. Se il sistema può funzionare senza la tua partecipazione — automazione, AI, enforcement algoritmico — il ritiro del substrato è irrilevante. Il tangping funziona solo finché il corridoio ha bisogno dei corpi.
+
+**Risposta**: Vero parzialmente, ma il corridoio ha *sempre* bisogno di corpi, anche quando li sostituisce con macchine. La sostituzione stessa è una forma di engagement: l'accettazione della macchina come intermediario. La domanda non è se il corridoio può funzionare senza corpi (non può, al livello del substrato: chi produce le macchine, chi le manutenziona, chi consuma l'output?), ma a quale livello il ritiro diventa efficace. Il tangping cinese non ha fermato il Social Credit, ma ha costretto il regime a ricalibrare l'enforcement — perché il corridoio perde qualità del segnale quando il substrato si sottrae. Il loop chiuso senza testimone (#1239) è efficiente ma *cieco*: non vede cosa non gli arriva.
+
+**La ri-discretizzazione è solo un'altra forma di ingresso nel corridoio**. Se ricrei una maniglia (uno sciopero, un'organizzazione, una piattaforma), stai costruendo qualcosa che il corridoio può vedere e processare. Non stai resistendo — stai offrendo un nuovo punto di presa.
+
+**Risposta**: Il rischio è reale. Ma la ri-discretizzazione non è l'ingresso nel corridoio — è la *ristrutturazione della grana* su cui il corridoio opera. Lo sciopero non è una petizione (formato ammissibile): è la cristallizzazione di un evento che il corridoio aveva ridotto a gradiente. La differenza sta nel fatto che la maniglia non è costruita nel formato del corridoio ma *contro* il formato — è un oggetto dove il corridoio si aspettava un flusso, un evento dove si aspettava un trend, un collettivo dove si aspettava atomi. Il corridoio dovrà *cambiare formato* per processarlo, e cambiare formato costa. Il rischio di ricattura resta (#587: la fuga riuscita propaga l'architettura), ma è un rischio temporaneo, non una condanna strutturale.

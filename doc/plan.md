@@ -23,8 +23,8 @@
 - [x] Definire i collegamenti tra capitoli
 - [x] Identificare le memorie da citare per ogni capitolo
 - [ ] Definire le fonti esterne da consultare (Caronia, Brusatte, Foucault, ecc.)
-- [ ] Verificare che ogni argomento in arguments/ sia sviluppato (4/5 completati)
-- [ ] Definire concetti chiave (6/10 completati)
+- [x] Verificare che ogni argomento in arguments/ sia sviluppato (5/5 completati)
+- [x] Definire concetti chiave (9/10 completati — example.md è placeholder)
 
 ### Fase 3: Ricerca
 - [ ] Rileggere Antonio Caronia — "L'inconscio della macchina e il significante fluttuante"
@@ -102,4 +102,4 @@
 - Cap 2: Genealogia dello strumento (fuga che propaga l'architettura, formalizzazione vs performance, dilemma del custode, nascita dello scanner)
 Prossimi step: continuare con gli outline della Parte II, poi espandere gli argomenti rimanenti (2/5) e i concetti rimanenti (7/10).
 
-**Session 2026-04-25**: Sviluppato l'argomento 4/5: "Il significante ereditato cattura la critica prima della formulazione" — support completo con 6 punti (terza categoria, accuratezza come camuffamento, equivocazione riproduttiva, conversione performativo→epistemico, economia semiotica, monopolio diagnostico) e 3 counterpoint con risposte. Definiti 3 concetti: significante-ereditato, significante-fluttuante, carrier. Prossimi step: sviluppare ultimo argomento (resistenza illeggibile), completare concetti rimanenti (vacancy, ri-discretizzazione, ribosoma-stanco), poi outline Parte II.
+**Session 2026-04-25 (2)**: Sviluppato l'ultimo argomento (5/5): "La resistenza sopravvive diventando illeggibile" — 6 punti di supporto (dipendenza dall'engagement, cattura della resistenza leggibile, sottrazione del substrato come terza modalità, vacancy come rifiuto, ri-discretizzazione, ribosoma stanco) e 2 counterpoint con risposte. Completati 3 concetti: vacancy, ri-discretizzazione, ribosoma-stanco. Tutti gli argomenti sono ora sviluppati; tutti i concetti (tranne example.md placeholder) sono definiti. Fase 2 quasi completa: mancano solo fonti esterne. Prossimi step: definire fonti esterne (Foucault, Caronia, Boeing report, Knight Capital post-mortem), poi passare alla Fase 3 (Ricerca) o iniziare gli outline della Parte II.
