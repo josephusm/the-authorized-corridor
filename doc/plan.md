@@ -15,7 +15,7 @@
 - [x] Thesis.md (tesi centrale)
 - [x] Backcover.md (pitch per il lettore)
 - [x] Outline/structure.md (struttura completa)
-- [x] Argomenti chiave (5 argomenti creati)
+- [x] Argomenti chiave (6 argomenti creati)
 - [x] Concetti chiave (10 concetti creati)
 - [x] **Nuovo 2026-04-29**: sinossi espansa con corridoio come riduttore di overflow semiotico + gap interno come quarta modalità di resistenza
 
@@ -31,7 +31,7 @@
 - [x] Definire i collegamenti tra capitoli
 - [x] Identificare le memorie da citare per ogni capitolo
 - [ ] Definire le fonti esterne da consultare (Caronia, Brusatte, Foucault, ecc.)
-- [x] Verificare che ogni argomento in arguments/ sia sviluppato (5/5 completati)
+- [x] Verificare che ogni argomento in arguments/ sia sviluppato (6/6 completati)
 - [x] Definire concetti chiave (11/11 completati — gap-interno aggiunto)
 
 ### Fase 3: Ricerca
@@ -112,3 +112,5 @@
 **Session 2026-04-25 (2)**: Sviluppato l'ultimo argomento (5/5). Completati 3 concetti: vacancy, ri-discretizzazione, ribosoma-stanco. Tutti gli argomenti ora sviluppati; tutti i concetti (tranne example.md placeholder) definiti.
 
 **Session 2026-04-29**: Espansione concept con due nuove dimensioni. Integrata shelf Caronia (#1299): il corridoio come riduttore di overflow semiotico, non solo filtro. Aggiunto concetto "gap-interno" — la risoluzione insufficiente dello scanner come proprietà strutturale che crea uno spazio di resistenza non intenzionale. Aggiornata sinossi, tesi, struttura (nuovo Capitolo 13, espansioni in tutte le parti). Prossimo: definire fonti esterne e passare a Fase 3 (Ricerca).
+
+**Session 2026-05-01**: Aggiunto argomento cardine "La categoria è un sensore, non un contenitore" da #1380/#1382, integrando Amazon sotto soglia umanitaria (#1377), memo-campus (#1365/#1367), Foucault/parrhesia (#1290) e spiegazione come rottura della cucitura database/interfaccia. Aggiornati outline/structure e Capitolo 1. Prossimo: usare questo argomento come ponte prima della stesura del Capitolo 1, dopo lettura mirata Foucault Lectures 4-5.

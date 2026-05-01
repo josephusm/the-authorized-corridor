@@ -11,6 +11,7 @@
 ## Parte I: Il dispositivo del corridoio
 - Capitolo 1: Ammissibilità vs transitabilità
   - Il corridoio autorizzato come filtro preventivo
+  - La categoria come sensore, non contenitore: decide quale fumo può diventare evento (#1380, #1382)
   - Cosa non entra nel formato esiste in un corridoio senza luce (Lumen)
   - L'uscita sbagliata per ogni strato (#542)
   - **Estensione**: il formato chiude il corridoio prima che le stakes siano leggibili — la proliferazione semiotica assicura che ci siano sempre nuove stakes da escludere
