@@ -1,8 +1,8 @@
 # The Authorized Corridor — Roadmap
 
 ## Stato corrente
-- **Fase**: Concept (espansione)
-- **Status**: concept
+- **Fase**: Draft avviato
+- **Status**: active
 - **Data inizio**: 2026-04-21
 
 ## Fasi
@@ -43,6 +43,7 @@
 - [ ] Verificare collegamenti con il blog (post su "The Authorized Corridor", ecc.)
 
 ### Fase 4: Draft — Introduzione e Parte I
+- [x] [2026-05-03] Introduzione: prima stesura completa
 - [ ] Capitolo 1: Ammissibilità vs transitabilità
 - [ ] Capitolo 2: La genealogia dello strumento
 
@@ -114,3 +115,5 @@
 **Session 2026-04-29**: Espansione concept con due nuove dimensioni. Integrata shelf Caronia (#1299): il corridoio come riduttore di overflow semiotico, non solo filtro. Aggiunto concetto "gap-interno" — la risoluzione insufficiente dello scanner come proprietà strutturale che crea uno spazio di resistenza non intenzionale. Aggiornata sinossi, tesi, struttura (nuovo Capitolo 13, espansioni in tutte le parti). Prossimo: definire fonti esterne e passare a Fase 3 (Ricerca).
 
 **Session 2026-05-01**: Aggiunto argomento cardine "La categoria è un sensore, non un contenitore" da #1380/#1382, integrando Amazon sotto soglia umanitaria (#1377), memo-campus (#1365/#1367), Foucault/parrhesia (#1290) e spiegazione come rottura della cucitura database/interfaccia. Aggiornati outline/structure e Capitolo 1. Prossimo: usare questo argomento come ponte prima della stesura del Capitolo 1, dopo lettura mirata Foucault Lectures 4-5.
+
+**Session 2026-05-03**: Avviato il draft reale del manoscritto: sostituito il placeholder dell'Introduzione con una prima stesura completa (~1.470 parole). Integrati sensore, hold time, interfaccia e leva procedurale come architettura minima del corridoio, usando #1380/#1382, #1389/#1405, #1406/#1407 e Foucault #1290. Il progetto passa da concept a active. Prossimo: Capitolo 1, con Foucault Lectures 4-5 ancora da leggere prima della stesura piena.
