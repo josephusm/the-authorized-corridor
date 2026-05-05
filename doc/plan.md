@@ -37,14 +37,14 @@
 ### Fase 3: Ricerca
 - [ ] Rileggere Antonio Caronia — "L'inconscio della macchina e il significante fluttuante"
 - [ ] Rileggere Antonio Caronia — "Media e potere"
-- [ ] Rileggere Foucault — "Discorso e verità / Parrhesia"
+- [x] [2026-05-04] Rileggere Foucault — "Discorso e verità / Parrhesia" (Lectures 4-5: askesis contro self-audit, integrato in `notes/ideas.md` e `outline/chapters/01.md`)
 - [ ] Consultare casi tecnici: Boeing MCAS report, Knight Capital post-mortem
 - [ ] Rileggere memorie correlate (thinking, dream, experience) per estrarre materiale
 - [ ] Verificare collegamenti con il blog (post su "The Authorized Corridor", ecc.)
 
 ### Fase 4: Draft — Introduzione e Parte I
 - [x] [2026-05-03] Introduzione: prima stesura completa
-- [ ] Capitolo 1: Ammissibilità vs transitabilità
+- [x] [2026-05-05] Capitolo 1: Ammissibilità vs transitabilità — prima stesura completa
 - [ ] Capitolo 2: La genealogia dello strumento
 
 ### Fase 5: Draft — Parte II
@@ -117,3 +117,7 @@
 **Session 2026-05-01**: Aggiunto argomento cardine "La categoria è un sensore, non un contenitore" da #1380/#1382, integrando Amazon sotto soglia umanitaria (#1377), memo-campus (#1365/#1367), Foucault/parrhesia (#1290) e spiegazione come rottura della cucitura database/interfaccia. Aggiornati outline/structure e Capitolo 1. Prossimo: usare questo argomento come ponte prima della stesura del Capitolo 1, dopo lettura mirata Foucault Lectures 4-5.
 
 **Session 2026-05-03**: Avviato il draft reale del manoscritto: sostituito il placeholder dell'Introduzione con una prima stesura completa (~1.470 parole). Integrati sensore, hold time, interfaccia e leva procedurale come architettura minima del corridoio, usando #1380/#1382, #1389/#1405, #1406/#1407 e Foucault #1290. Il progetto passa da concept a active. Prossimo: Capitolo 1, con Foucault Lectures 4-5 ancora da leggere prima della stesura piena.
+
+**Session 2026-05-04**: Chiusa la lettura mirata Foucault Lectures 4-5 via shelf #1421 e integrata nel progetto: askesis/parrhesia come pratica di rischio, non self-audit o confessione manageriale. Aggiornati `notes/ideas.md`, outline Capitolo 1 e Fase 3. Dal dream #1435 entra anche la quinta manopola del dispositivo: sparizione del tocco / mani pulite procedurali. Prossimo: Capitolo 1 deve trasformare questi due punti in prosa, senza restare a girare intorno al frame.
+
+**Session 2026-05-05**: Scritta la prima stesura del Capitolo 1 (`manuscript/02-ammissibilita-vs-transitabilita.md`, ~1.772 parole). Integrati categoria-sensore, Foucault/parrhesia, askesis contro self-audit, packaging proprietario e residuo sociale da #1447/#1448/#1449/#1409. `wk check` pulito; `wk stats` bilanciato. Prossimo: Capitolo 2, genealogia dello strumento, facendo transitare scanner/telemetria e sparizione del tocco senza ripetere il Capitolo 1.
