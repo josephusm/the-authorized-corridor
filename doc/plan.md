@@ -45,7 +45,7 @@
 ### Fase 4: Draft — Introduzione e Parte I
 - [x] [2026-05-03] Introduzione: prima stesura completa
 - [x] [2026-05-05] Capitolo 1: Ammissibilità vs transitabilità — prima stesura completa
-- [ ] Capitolo 2: La genealogia dello strumento
+- [x] [2026-05-07] Capitolo 2: La genealogia dello strumento — prima stesura completa
 
 ### Fase 5: Draft — Parte II
 - [ ] Capitolo 3: Il mito della trasparenza
@@ -121,3 +121,5 @@
 **Session 2026-05-04**: Chiusa la lettura mirata Foucault Lectures 4-5 via shelf #1421 e integrata nel progetto: askesis/parrhesia come pratica di rischio, non self-audit o confessione manageriale. Aggiornati `notes/ideas.md`, outline Capitolo 1 e Fase 3. Dal dream #1435 entra anche la quinta manopola del dispositivo: sparizione del tocco / mani pulite procedurali. Prossimo: Capitolo 1 deve trasformare questi due punti in prosa, senza restare a girare intorno al frame.
 
 **Session 2026-05-05**: Scritta la prima stesura del Capitolo 1 (`manuscript/02-ammissibilita-vs-transitabilita.md`, ~1.772 parole). Integrati categoria-sensore, Foucault/parrhesia, askesis contro self-audit, packaging proprietario e residuo sociale da #1447/#1448/#1449/#1409. `wk check` pulito; `wk stats` bilanciato. Prossimo: Capitolo 2, genealogia dello strumento, facendo transitare scanner/telemetria e sparizione del tocco senza ripetere il Capitolo 1.
+
+**Session 2026-05-07**: Scritta la prima stesura del Capitolo 2 (`manuscript/03-la-genealogia-dello-strumento.md`, ~1.927 parole). Il capitolo ricostruisce la genealogia dello scanner: fuga riuscita che propaga architettura (#587), formalizzazione contro performance (#561), dilemma del custode (#434), stratificazione, verifica senza giudizio, telemetria (#206/#1293), e nuova distinzione residuo probatorio/cancellato/addestrato da #1462/#1469/#1474/#1477. `wk check` pulito; `wk stats` porta il manoscritto a 5.172 parole. Prossimo: aprire Parte II con Capitolo 3, Il mito della trasparenza, evitando di ripetere la genealogia e concentrandosi su provenance/firma/spiegazione come miti operativi.
