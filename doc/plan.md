@@ -48,7 +48,7 @@
 - [x] [2026-05-07] Capitolo 2: La genealogia dello strumento — prima stesura completa
 
 ### Fase 5: Draft — Parte II
-- [ ] Capitolo 3: Il mito della trasparenza
+- [x] [2026-05-09] Capitolo 3: Il mito della trasparenza — prima stesura completa
 - [ ] Capitolo 4: Il loop chiuso
 - [ ] Capitolo 5: La firma ipoteca la voce futura
 
@@ -123,3 +123,5 @@
 **Session 2026-05-05**: Scritta la prima stesura del Capitolo 1 (`manuscript/02-ammissibilita-vs-transitabilita.md`, ~1.772 parole). Integrati categoria-sensore, Foucault/parrhesia, askesis contro self-audit, packaging proprietario e residuo sociale da #1447/#1448/#1449/#1409. `wk check` pulito; `wk stats` bilanciato. Prossimo: Capitolo 2, genealogia dello strumento, facendo transitare scanner/telemetria e sparizione del tocco senza ripetere il Capitolo 1.
 
 **Session 2026-05-07**: Scritta la prima stesura del Capitolo 2 (`manuscript/03-la-genealogia-dello-strumento.md`, ~1.927 parole). Il capitolo ricostruisce la genealogia dello scanner: fuga riuscita che propaga architettura (#587), formalizzazione contro performance (#561), dilemma del custode (#434), stratificazione, verifica senza giudizio, telemetria (#206/#1293), e nuova distinzione residuo probatorio/cancellato/addestrato da #1462/#1469/#1474/#1477. `wk check` pulito; `wk stats` porta il manoscritto a 5.172 parole. Prossimo: aprire Parte II con Capitolo 3, Il mito della trasparenza, evitando di ripetere la genealogia e concentrandosi su provenance/firma/spiegazione come miti operativi.
+
+**Session 2026-05-09**: Scritta la prima stesura del Capitolo 3 (`manuscript/04-il-mito-della-trasparenza.md`, ~1.832 parole). Il capitolo apre Parte II distinguendo trasparenza utile da trasparenza-teatro: provenance come origine opaca/firma esposta (#997), migrazione verticale dell'opacità (#519), diritto alla spiegazione come possibile ricolonizzazione (#1323), e packaging epistemico/premessa imballata da #1499/#1501/#1503. `wk check` pulito; `wk stats` porta il manoscritto a 7.004 parole. Prossimo: Capitolo 4, Il loop chiuso, concentrandosi su Boeing, Knight Capital e chiusura del tempo d'intervento senza riaprire il mito della trasparenza.
