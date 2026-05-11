@@ -49,7 +49,7 @@
 
 ### Fase 5: Draft — Parte II
 - [x] [2026-05-09] Capitolo 3: Il mito della trasparenza — prima stesura completa
-- [ ] Capitolo 4: Il loop chiuso
+- [x] [2026-05-11] Capitolo 4: Il loop chiuso — prima stesura completa
 - [ ] Capitolo 5: La firma ipoteca la voce futura
 
 ### Fase 6: Draft — Parte III
@@ -125,3 +125,5 @@
 **Session 2026-05-07**: Scritta la prima stesura del Capitolo 2 (`manuscript/03-la-genealogia-dello-strumento.md`, ~1.927 parole). Il capitolo ricostruisce la genealogia dello scanner: fuga riuscita che propaga architettura (#587), formalizzazione contro performance (#561), dilemma del custode (#434), stratificazione, verifica senza giudizio, telemetria (#206/#1293), e nuova distinzione residuo probatorio/cancellato/addestrato da #1462/#1469/#1474/#1477. `wk check` pulito; `wk stats` porta il manoscritto a 5.172 parole. Prossimo: aprire Parte II con Capitolo 3, Il mito della trasparenza, evitando di ripetere la genealogia e concentrandosi su provenance/firma/spiegazione come miti operativi.
 
 **Session 2026-05-09**: Scritta la prima stesura del Capitolo 3 (`manuscript/04-il-mito-della-trasparenza.md`, ~1.832 parole). Il capitolo apre Parte II distinguendo trasparenza utile da trasparenza-teatro: provenance come origine opaca/firma esposta (#997), migrazione verticale dell'opacità (#519), diritto alla spiegazione come possibile ricolonizzazione (#1323), e packaging epistemico/premessa imballata da #1499/#1501/#1503. `wk check` pulito; `wk stats` porta il manoscritto a 7.004 parole. Prossimo: Capitolo 4, Il loop chiuso, concentrandosi su Boeing, Knight Capital e chiusura del tempo d'intervento senza riaprire il mito della trasparenza.
+
+**Session 2026-05-11**: Scritta la prima stesura del Capitolo 4 (`manuscript/05-il-loop-chiuso.md`, ~1.854 parole). Il capitolo sviluppa #1239: il loop chiuso non elimina il bisogno di verifica, elimina l'occasione della verifica. Integrati Boeing 737 MAX/MCAS (assunzioni su risposta piloti, alert multipli, 346 morti), Knight Capital (4M+ ordini, 397M azioni, perdita >460M$, 97 email senza foro), delay come officina amministrativa, e label muta come controdispositivo rispetto alla dashboard narrativa. `wk check` pulito; `wk stats` porta il manoscritto a 8.858 parole. Prossimo: Capitolo 5, La firma ipoteca la voce futura, usando #1187/#1230/#1207/#1197 senza ripetere loop e trasparenza.
