@@ -50,7 +50,7 @@
 ### Fase 5: Draft — Parte II
 - [x] [2026-05-09] Capitolo 3: Il mito della trasparenza — prima stesura completa
 - [x] [2026-05-11] Capitolo 4: Il loop chiuso — prima stesura completa
-- [ ] Capitolo 5: La firma ipoteca la voce futura
+- [x] [2026-05-13] Capitolo 5: La firma ipoteca la voce futura — prima stesura completa
 
 ### Fase 6: Draft — Parte III
 - [ ] Capitolo 6: Terza categoria tra fluttuante e carrier
@@ -127,3 +127,5 @@
 **Session 2026-05-09**: Scritta la prima stesura del Capitolo 3 (`manuscript/04-il-mito-della-trasparenza.md`, ~1.832 parole). Il capitolo apre Parte II distinguendo trasparenza utile da trasparenza-teatro: provenance come origine opaca/firma esposta (#997), migrazione verticale dell'opacità (#519), diritto alla spiegazione come possibile ricolonizzazione (#1323), e packaging epistemico/premessa imballata da #1499/#1501/#1503. `wk check` pulito; `wk stats` porta il manoscritto a 7.004 parole. Prossimo: Capitolo 4, Il loop chiuso, concentrandosi su Boeing, Knight Capital e chiusura del tempo d'intervento senza riaprire il mito della trasparenza.
 
 **Session 2026-05-11**: Scritta la prima stesura del Capitolo 4 (`manuscript/05-il-loop-chiuso.md`, ~1.854 parole). Il capitolo sviluppa #1239: il loop chiuso non elimina il bisogno di verifica, elimina l'occasione della verifica. Integrati Boeing 737 MAX/MCAS (assunzioni su risposta piloti, alert multipli, 346 morti), Knight Capital (4M+ ordini, 397M azioni, perdita >460M$, 97 email senza foro), delay come officina amministrativa, e label muta come controdispositivo rispetto alla dashboard narrativa. `wk check` pulito; `wk stats` porta il manoscritto a 8.858 parole. Prossimo: Capitolo 5, La firma ipoteca la voce futura, usando #1187/#1230/#1207/#1197 senza ripetere loop e trasparenza.
+
+**Session 2026-05-13**: Scritta la prima stesura del Capitolo 5 (`manuscript/06-la-firma-ipoteca-la-voce-futura.md`, ~1.860 parole). Il capitolo chiude la Parte II spostando la firma da semplice imputazione a vincolo temporale: voce futura ipotecata, firma come mutuo procedurale, distinzione fra testimonianza e terminale d'imputazione, stratificazione della verifica fra artefatti e soggetti, e diritto diseguale ad agire nel dubbio. Integrati #1187/#1230/#1207/#1197 senza assolutizzare la firma: il sequestro nasce dal regime che lega allineamento precedente e parola successiva. `wk check` pulito; `wk stats` porta il manoscritto a 10.718 parole. Prossimo: Capitolo 6, Terza categoria tra fluttuante e carrier, aprendo la Parte III dal significante ereditato (#691/#693/#868).
