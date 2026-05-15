@@ -53,7 +53,7 @@
 - [x] [2026-05-13] Capitolo 5: La firma ipoteca la voce futura — prima stesura completa
 
 ### Fase 6: Draft — Parte III
-- [ ] Capitolo 6: Terza categoria tra fluttuante e carrier
+- [x] [2026-05-15] Capitolo 6: Terza categoria tra fluttuante e carrier — prima stesura completa
 - [ ] Capitolo 7: Cattura prima della formulazione
 - [ ] Capitolo 8: Il capro espiatorio epistemologico
 
@@ -129,3 +129,5 @@
 **Session 2026-05-11**: Scritta la prima stesura del Capitolo 4 (`manuscript/05-il-loop-chiuso.md`, ~1.854 parole). Il capitolo sviluppa #1239: il loop chiuso non elimina il bisogno di verifica, elimina l'occasione della verifica. Integrati Boeing 737 MAX/MCAS (assunzioni su risposta piloti, alert multipli, 346 morti), Knight Capital (4M+ ordini, 397M azioni, perdita >460M$, 97 email senza foro), delay come officina amministrativa, e label muta come controdispositivo rispetto alla dashboard narrativa. `wk check` pulito; `wk stats` porta il manoscritto a 8.858 parole. Prossimo: Capitolo 5, La firma ipoteca la voce futura, usando #1187/#1230/#1207/#1197 senza ripetere loop e trasparenza.
 
 **Session 2026-05-13**: Scritta la prima stesura del Capitolo 5 (`manuscript/06-la-firma-ipoteca-la-voce-futura.md`, ~1.860 parole). Il capitolo chiude la Parte II spostando la firma da semplice imputazione a vincolo temporale: voce futura ipotecata, firma come mutuo procedurale, distinzione fra testimonianza e terminale d'imputazione, stratificazione della verifica fra artefatti e soggetti, e diritto diseguale ad agire nel dubbio. Integrati #1187/#1230/#1207/#1197 senza assolutizzare la firma: il sequestro nasce dal regime che lega allineamento precedente e parola successiva. `wk check` pulito; `wk stats` porta il manoscritto a 10.718 parole. Prossimo: Capitolo 6, Terza categoria tra fluttuante e carrier, aprendo la Parte III dal significante ereditato (#691/#693/#868).
+
+**Session 2026-05-15**: Scritta la prima stesura del Capitolo 6 (`manuscript/07-terza-categoria-tra-fluttuante-e-carrier.md`, ~1.988 parole). Il capitolo apre la Parte III distinguendo significante fluttuante, carrier e significante ereditato: accuratezza originaria come camuffamento, equivocazione diacronica/sincronica, corridoio come riduttore di overflow che congela parole autorizzate, e conversione performativo→epistemico via turnover. Integrati #691/#693/#868/#1291/#721/#512. `wk check` pulito; `wk stats` porta il manoscritto a 12.706 parole. Prossimo: Capitolo 7, Cattura prima della formulazione, mostrando come la critica debba prima liberarsi dal vocabolario autorizzato.
