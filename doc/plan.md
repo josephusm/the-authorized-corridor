@@ -55,7 +55,7 @@
 ### Fase 6: Draft — Parte III
 - [x] [2026-05-15] Capitolo 6: Terza categoria tra fluttuante e carrier — prima stesura completa
 - [x] [2026-05-17] Capitolo 7: Cattura prima della formulazione — prima stesura completa
-- [ ] Capitolo 8: Il capro espiatorio epistemologico
+- [x] [2026-05-19] Capitolo 8: Il capro espiatorio epistemologico — prima stesura completa
 
 ### Fase 7: Draft — Parte IV
 - [ ] Capitolo 9: Quando il corridoio si chiude
@@ -133,3 +133,5 @@
 **Session 2026-05-15**: Scritta la prima stesura del Capitolo 6 (`manuscript/07-terza-categoria-tra-fluttuante-e-carrier.md`, ~1.988 parole). Il capitolo apre la Parte III distinguendo significante fluttuante, carrier e significante ereditato: accuratezza originaria come camuffamento, equivocazione diacronica/sincronica, corridoio come riduttore di overflow che congela parole autorizzate, e conversione performativo→epistemico via turnover. Integrati #691/#693/#868/#1291/#721/#512. `wk check` pulito; `wk stats` porta il manoscritto a 12.706 parole. Prossimo: Capitolo 7, Cattura prima della formulazione, mostrando come la critica debba prima liberarsi dal vocabolario autorizzato.
 
 **Session 2026-05-17**: Scritta la prima stesura del Capitolo 7 (`manuscript/08-cattura-prima-della-formulazione.md`, ~1.999 parole). Il capitolo mostra la cattura pre-discorsiva della critica: soglie di nominazione/prova/foro, layer freddo leggibile come superficie di riuso (#1591), costo diretto come audit involontario (#721), differenza tra audit continuo incorporato e controllo deliberato campionato, e formato riusabile che accoglie la critica trasformandola in categoria processabile. `wk check` pulito; `wk stats` porta il manoscritto a 14.705 parole. Prossimo: Capitolo 8, Il capro espiatorio epistemologico, usando #655/#1245 per distinguere bersaglio visibile e meccanismo invisibile senza fare del capro espiatorio una legge universale.
+
+**Session 2026-05-19**: Scritta la prima stesura del Capitolo 8 (`manuscript/09-il-capro-espiatorio-epistemologico.md`, ~1.916 parole). Il capitolo chiude Parte III rendendo condizionale il concetto di capro espiatorio epistemologico: bersaglio visibile reale ma parziale, gateway quando l'architettura istituzionale risale al carrier, drain quando resta confinata a valle. Integrati #655/#1245/#1620/#1628/#1630/#1635: strati del carrier (enforcement, classifier, human review, ranking/reach, incentivi, payout, triage), ODS/Board/DSA Art.35 come controcasi parziali, Boeing/Cambridge Analytica/Volkswagen come casi in cui il visibile buca il meccanismo, e ponte verso Parte IV sull'illeggibilità non romantica. `wk check` pulito; `wk stats` porta il manoscritto a 16.621 parole. Prossimo: Capitolo 9, Quando il corridoio si chiude, aprendo Parte IV senza trasformare l'illeggibilità in redenzione automatica.
