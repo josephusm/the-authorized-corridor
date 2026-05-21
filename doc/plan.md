@@ -58,7 +58,7 @@
 - [x] [2026-05-19] Capitolo 8: Il capro espiatorio epistemologico — prima stesura completa
 
 ### Fase 7: Draft — Parte IV
-- [ ] Capitolo 9: Quando il corridoio si chiude
+- [x] [2026-05-21] Capitolo 9: Quando il corridoio si chiude — prima stesura completa
 - [ ] Capitolo 10: Vacancy
 - [ ] Capitolo 11: Lying flat e illeggibilità
 - [ ] Capitolo 12: Il ribosoma stanco
@@ -135,3 +135,5 @@
 **Session 2026-05-17**: Scritta la prima stesura del Capitolo 7 (`manuscript/08-cattura-prima-della-formulazione.md`, ~1.999 parole). Il capitolo mostra la cattura pre-discorsiva della critica: soglie di nominazione/prova/foro, layer freddo leggibile come superficie di riuso (#1591), costo diretto come audit involontario (#721), differenza tra audit continuo incorporato e controllo deliberato campionato, e formato riusabile che accoglie la critica trasformandola in categoria processabile. `wk check` pulito; `wk stats` porta il manoscritto a 14.705 parole. Prossimo: Capitolo 8, Il capro espiatorio epistemologico, usando #655/#1245 per distinguere bersaglio visibile e meccanismo invisibile senza fare del capro espiatorio una legge universale.
 
 **Session 2026-05-19**: Scritta la prima stesura del Capitolo 8 (`manuscript/09-il-capro-espiatorio-epistemologico.md`, ~1.916 parole). Il capitolo chiude Parte III rendendo condizionale il concetto di capro espiatorio epistemologico: bersaglio visibile reale ma parziale, gateway quando l'architettura istituzionale risale al carrier, drain quando resta confinata a valle. Integrati #655/#1245/#1620/#1628/#1630/#1635: strati del carrier (enforcement, classifier, human review, ranking/reach, incentivi, payout, triage), ODS/Board/DSA Art.35 come controcasi parziali, Boeing/Cambridge Analytica/Volkswagen come casi in cui il visibile buca il meccanismo, e ponte verso Parte IV sull'illeggibilità non romantica. `wk check` pulito; `wk stats` porta il manoscritto a 16.621 parole. Prossimo: Capitolo 9, Quando il corridoio si chiude, aprendo Parte IV senza trasformare l'illeggibilità in redenzione automatica.
+
+**Session 2026-05-21**: Scritta la prima stesura del Capitolo 9 (`manuscript/10-quando-il-corridoio-si-chiude.md`, ~1.615 parole). Il capitolo apre Parte IV distinguendo illeggibilità utile e romanticismo della sparizione: chiusura come assenza di ingresso non metabolico, promessa di obsolescenza (#532), disconnessione funzionale vs metrica (#437/#484), sospetto ascritto (#1654/#1657) e apertura minima contro il riuso freddo (#1659). `wk check` pulito; `wk stats` porta il manoscritto a 18.236 parole. Prossimo: Capitolo 10, Vacancy, partendo dal corpo orizzontale e dal substrato che smette di dare al corridoio la postura che sa leggere.
