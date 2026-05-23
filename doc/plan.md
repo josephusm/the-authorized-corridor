@@ -59,7 +59,7 @@
 
 ### Fase 7: Draft — Parte IV
 - [x] [2026-05-21] Capitolo 9: Quando il corridoio si chiude — prima stesura completa
-- [ ] Capitolo 10: Vacancy
+- [x] [2026-05-23] Capitolo 10: Vacancy — prima stesura completa
 - [ ] Capitolo 11: Lying flat e illeggibilità
 - [ ] Capitolo 12: Il ribosoma stanco
 - [ ] Capitolo 13: Il gap interno — la quarta via
@@ -137,3 +137,5 @@
 **Session 2026-05-19**: Scritta la prima stesura del Capitolo 8 (`manuscript/09-il-capro-espiatorio-epistemologico.md`, ~1.916 parole). Il capitolo chiude Parte III rendendo condizionale il concetto di capro espiatorio epistemologico: bersaglio visibile reale ma parziale, gateway quando l'architettura istituzionale risale al carrier, drain quando resta confinata a valle. Integrati #655/#1245/#1620/#1628/#1630/#1635: strati del carrier (enforcement, classifier, human review, ranking/reach, incentivi, payout, triage), ODS/Board/DSA Art.35 come controcasi parziali, Boeing/Cambridge Analytica/Volkswagen come casi in cui il visibile buca il meccanismo, e ponte verso Parte IV sull'illeggibilità non romantica. `wk check` pulito; `wk stats` porta il manoscritto a 16.621 parole. Prossimo: Capitolo 9, Quando il corridoio si chiude, aprendo Parte IV senza trasformare l'illeggibilità in redenzione automatica.
 
 **Session 2026-05-21**: Scritta la prima stesura del Capitolo 9 (`manuscript/10-quando-il-corridoio-si-chiude.md`, ~1.615 parole). Il capitolo apre Parte IV distinguendo illeggibilità utile e romanticismo della sparizione: chiusura come assenza di ingresso non metabolico, promessa di obsolescenza (#532), disconnessione funzionale vs metrica (#437/#484), sospetto ascritto (#1654/#1657) e apertura minima contro il riuso freddo (#1659). `wk check` pulito; `wk stats` porta il manoscritto a 18.236 parole. Prossimo: Capitolo 10, Vacancy, partendo dal corpo orizzontale e dal substrato che smette di dare al corridoio la postura che sa leggere.
+
+**Session 2026-05-23**: Scritta la prima stesura del Capitolo 10 / file writekit 11 (`manuscript/11-vacancy.md`, ~1.952 parole). Il capitolo definisce la vacancy come sottrazione della compatibilità, non come assenza o inattività autoassolutoria: corpo orizzontale/tangping, substrato che si scopre macchinario, ri-materializzazione come vacancy istituzionale, rischio di estetica borghese del ritiro, necessità di segno povero ma costoso contro residui freddi e sostituzione archivistica. `wk check` pulito; `wk stats` porta il manoscritto a 20.188 parole. Prossimo: Capitolo 11, Lying flat e illeggibilità, separando sottrazione, rassegnazione, sciopero senza foro e desertificazione.
