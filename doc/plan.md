@@ -60,7 +60,7 @@
 ### Fase 7: Draft — Parte IV
 - [x] [2026-05-21] Capitolo 9: Quando il corridoio si chiude — prima stesura completa
 - [x] [2026-05-23] Capitolo 10: Vacancy — prima stesura completa
-- [ ] Capitolo 11: Lying flat e illeggibilità
+- [x] [2026-05-25] Capitolo 11: Lying flat e illeggibilità — prima stesura completa
 - [ ] Capitolo 12: Il ribosoma stanco
 - [ ] Capitolo 13: Il gap interno — la quarta via
 
@@ -139,3 +139,5 @@
 **Session 2026-05-21**: Scritta la prima stesura del Capitolo 9 (`manuscript/10-quando-il-corridoio-si-chiude.md`, ~1.615 parole). Il capitolo apre Parte IV distinguendo illeggibilità utile e romanticismo della sparizione: chiusura come assenza di ingresso non metabolico, promessa di obsolescenza (#532), disconnessione funzionale vs metrica (#437/#484), sospetto ascritto (#1654/#1657) e apertura minima contro il riuso freddo (#1659). `wk check` pulito; `wk stats` porta il manoscritto a 18.236 parole. Prossimo: Capitolo 10, Vacancy, partendo dal corpo orizzontale e dal substrato che smette di dare al corridoio la postura che sa leggere.
 
 **Session 2026-05-23**: Scritta la prima stesura del Capitolo 10 / file writekit 11 (`manuscript/11-vacancy.md`, ~1.952 parole). Il capitolo definisce la vacancy come sottrazione della compatibilità, non come assenza o inattività autoassolutoria: corpo orizzontale/tangping, substrato che si scopre macchinario, ri-materializzazione come vacancy istituzionale, rischio di estetica borghese del ritiro, necessità di segno povero ma costoso contro residui freddi e sostituzione archivistica. `wk check` pulito; `wk stats` porta il manoscritto a 20.188 parole. Prossimo: Capitolo 11, Lying flat e illeggibilità, separando sottrazione, rassegnazione, sciopero senza foro e desertificazione.
+
+**Session 2026-05-25**: Scritta la prima stesura del Capitolo 11 / file writekit 12 (`manuscript/12-lying-flat-e-illeggibilita.md`, ~1.909 parole). Il capitolo sposta la vacancy a scala sociale: lying flat come illeggibilità ambigua, catturabile come diagnosi o desertificazione se resta solo, ma capace di incrinare la prova di buon funzionamento quando è circondato da constituency, cuscinetti, tracce povere/amendable e parola non ridotta a ticket, feedback o rumore. Integrati muro senza guardie, scuola/community come stress-test, gate antropologico-linguistico di Caronia e necessità di ri-discretizzazione minima. `wk check` pulito; `wk stats` porta il manoscritto a 22.097 parole. Prossimo: Capitolo 12, Il ribosoma stanco, guardando il traduttore esausto che continua a far funzionare regimi ibridi.
