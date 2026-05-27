@@ -61,7 +61,7 @@
 - [x] [2026-05-21] Capitolo 9: Quando il corridoio si chiude — prima stesura completa
 - [x] [2026-05-23] Capitolo 10: Vacancy — prima stesura completa
 - [x] [2026-05-25] Capitolo 11: Lying flat e illeggibilità — prima stesura completa
-- [ ] Capitolo 12: Il ribosoma stanco
+- [x] [2026-05-27] Capitolo 12: Il ribosoma stanco — prima stesura completa
 - [ ] Capitolo 13: Il gap interno — la quarta via
 
 ### Fase 8: Draft — Parte V
@@ -141,3 +141,5 @@
 **Session 2026-05-23**: Scritta la prima stesura del Capitolo 10 / file writekit 11 (`manuscript/11-vacancy.md`, ~1.952 parole). Il capitolo definisce la vacancy come sottrazione della compatibilità, non come assenza o inattività autoassolutoria: corpo orizzontale/tangping, substrato che si scopre macchinario, ri-materializzazione come vacancy istituzionale, rischio di estetica borghese del ritiro, necessità di segno povero ma costoso contro residui freddi e sostituzione archivistica. `wk check` pulito; `wk stats` porta il manoscritto a 20.188 parole. Prossimo: Capitolo 11, Lying flat e illeggibilità, separando sottrazione, rassegnazione, sciopero senza foro e desertificazione.
 
 **Session 2026-05-25**: Scritta la prima stesura del Capitolo 11 / file writekit 12 (`manuscript/12-lying-flat-e-illeggibilita.md`, ~1.909 parole). Il capitolo sposta la vacancy a scala sociale: lying flat come illeggibilità ambigua, catturabile come diagnosi o desertificazione se resta solo, ma capace di incrinare la prova di buon funzionamento quando è circondato da constituency, cuscinetti, tracce povere/amendable e parola non ridotta a ticket, feedback o rumore. Integrati muro senza guardie, scuola/community come stress-test, gate antropologico-linguistico di Caronia e necessità di ri-discretizzazione minima. `wk check` pulito; `wk stats` porta il manoscritto a 22.097 parole. Prossimo: Capitolo 12, Il ribosoma stanco, guardando il traduttore esausto che continua a far funzionare regimi ibridi.
+
+**Session 2026-05-27**: Scritta la prima stesura del Capitolo 12 / file writekit 13 (`manuscript/13-il-ribosoma-stanco.md`, ~1.949 parole). Il capitolo definisce il ribosoma stanco come traduzione esausta del substrato: cura, mediazione e competenza che impediscono il collasso ma stabilizzano regimi ibridi quando restano metabolismo invisibile. Integrati telemetria come gene facile dell'esperienza, Sabul/mediatore come stampella e serratura, DSA/ODS come controcaso parziale, scuola/detector come luogo in cui la cura può salvare lo studente e insieme salvare la faccia del corridoio. `wk check` pulito; `wk stats` porta il manoscritto a 24.046 parole. Prossimo: Capitolo 13, Il gap interno, spostando il problema dal corpo/traduttore al limite di risoluzione dello scanner.
