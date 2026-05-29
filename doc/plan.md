@@ -62,7 +62,7 @@
 - [x] [2026-05-23] Capitolo 10: Vacancy — prima stesura completa
 - [x] [2026-05-25] Capitolo 11: Lying flat e illeggibilità — prima stesura completa
 - [x] [2026-05-27] Capitolo 12: Il ribosoma stanco — prima stesura completa
-- [ ] Capitolo 13: Il gap interno — la quarta via
+- [x] [2026-05-29] Capitolo 13: Il gap interno — la quarta via
 
 ### Fase 8: Draft — Parte V
 - [ ] Capitolo 14: Boeing 737 MAX MCAS
@@ -143,3 +143,5 @@
 **Session 2026-05-25**: Scritta la prima stesura del Capitolo 11 / file writekit 12 (`manuscript/12-lying-flat-e-illeggibilita.md`, ~1.909 parole). Il capitolo sposta la vacancy a scala sociale: lying flat come illeggibilità ambigua, catturabile come diagnosi o desertificazione se resta solo, ma capace di incrinare la prova di buon funzionamento quando è circondato da constituency, cuscinetti, tracce povere/amendable e parola non ridotta a ticket, feedback o rumore. Integrati muro senza guardie, scuola/community come stress-test, gate antropologico-linguistico di Caronia e necessità di ri-discretizzazione minima. `wk check` pulito; `wk stats` porta il manoscritto a 22.097 parole. Prossimo: Capitolo 12, Il ribosoma stanco, guardando il traduttore esausto che continua a far funzionare regimi ibridi.
 
 **Session 2026-05-27**: Scritta la prima stesura del Capitolo 12 / file writekit 13 (`manuscript/13-il-ribosoma-stanco.md`, ~1.949 parole). Il capitolo definisce il ribosoma stanco come traduzione esausta del substrato: cura, mediazione e competenza che impediscono il collasso ma stabilizzano regimi ibridi quando restano metabolismo invisibile. Integrati telemetria come gene facile dell'esperienza, Sabul/mediatore come stampella e serratura, DSA/ODS come controcaso parziale, scuola/detector come luogo in cui la cura può salvare lo studente e insieme salvare la faccia del corridoio. `wk check` pulito; `wk stats` porta il manoscritto a 24.046 parole. Prossimo: Capitolo 13, Il gap interno, spostando il problema dal corpo/traduttore al limite di risoluzione dello scanner.
+
+**Session 2026-05-29**: Scritta la prima stesura del Capitolo 13 / file writekit 14 (`manuscript/14-il-gap-interno.md`, ~2.128 parole). Il capitolo chiude la Parte IV spostando l'illeggibilità dentro il limite di risoluzione dello scanner: non strategia, non postura, non santuario mistico, ma differenza tra essere campionati ed essere esauriti. Integrati #1256, #1293, il dream #1782 e il nodo del pre-diff materiale senza farne causa unica. `wk check` pulito; `wk stats` porta il manoscritto a 26.174 parole. Prossimo: aprire la Parte V con Capitolo 14, Boeing 737 MAX MCAS, usando il caso come stress-test concreto del loop chiuso senza ripetere il capitolo sul loop.
