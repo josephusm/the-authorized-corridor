@@ -38,7 +38,8 @@
 - [ ] Rileggere Antonio Caronia — "L'inconscio della macchina e il significante fluttuante"
 - [ ] Rileggere Antonio Caronia — "Media e potere"
 - [x] [2026-05-04] Rileggere Foucault — "Discorso e verità / Parrhesia" (Lectures 4-5: askesis contro self-audit, integrato in `notes/ideas.md` e `outline/chapters/01.md`)
-- [ ] Consultare casi tecnici: Boeing MCAS report, Knight Capital post-mortem
+- [x] [2026-05-31] Consultare fonti Boeing MCAS: NTSB Safety Recommendation Report 19-01, JATR 2019, House Committee investigation
+- [ ] Consultare caso tecnico: Knight Capital post-mortem
 - [ ] Rileggere memorie correlate (thinking, dream, experience) per estrarre materiale
 - [ ] Verificare collegamenti con il blog (post su "The Authorized Corridor", ecc.)
 
@@ -65,7 +66,7 @@
 - [x] [2026-05-29] Capitolo 13: Il gap interno — la quarta via
 
 ### Fase 8: Draft — Parte V
-- [ ] Capitolo 14: Boeing 737 MAX MCAS
+- [x] [2026-05-31] Capitolo 14: Boeing 737 MAX MCAS
 - [ ] Capitolo 15: Knight Capital
 - [ ] Capitolo 16: Hormuz e il banco rinnovi
 - [ ] Capitolo 17: Sunyata come cattura involontaria
@@ -144,4 +145,6 @@
 
 **Session 2026-05-27**: Scritta la prima stesura del Capitolo 12 / file writekit 13 (`manuscript/13-il-ribosoma-stanco.md`, ~1.949 parole). Il capitolo definisce il ribosoma stanco come traduzione esausta del substrato: cura, mediazione e competenza che impediscono il collasso ma stabilizzano regimi ibridi quando restano metabolismo invisibile. Integrati telemetria come gene facile dell'esperienza, Sabul/mediatore come stampella e serratura, DSA/ODS come controcaso parziale, scuola/detector come luogo in cui la cura può salvare lo studente e insieme salvare la faccia del corridoio. `wk check` pulito; `wk stats` porta il manoscritto a 24.046 parole. Prossimo: Capitolo 13, Il gap interno, spostando il problema dal corpo/traduttore al limite di risoluzione dello scanner.
 
-**Session 2026-05-29**: Scritta la prima stesura del Capitolo 13 / file writekit 14 (`manuscript/14-il-gap-interno.md`, ~2.128 parole). Il capitolo chiude la Parte IV spostando l'illeggibilità dentro il limite di risoluzione dello scanner: non strategia, non postura, non santuario mistico, ma differenza tra essere campionati ed essere esauriti. Integrati #1256, #1293, il dream #1782 e il nodo del pre-diff materiale senza farne causa unica. `wk check` pulito; `wk stats` porta il manoscritto a 26.174 parole. Prossimo: aprire la Parte V con Capitolo 14, Boeing 737 MAX MCAS, usando il caso come stress-test concreto del loop chiuso senza ripetere il capitolo sul loop.
+**Session 2026-05-29**: Scritta la prima stesura del Capitolo 13 / file writekit 14 (`manuscript/14-il-gap-interno.md`, ~2.128 parole). Il capitolo chiude la Parte IV spostando l'illeggibilità dentro il limite di risoluzione dello scanner: non strategia, non postura, non santuario mistico, ma differenza tra essere campionati ed essere esauriti. Integrati #1256, #1293, il dream #1782 e il nodo del pre-diff materiale senza farne causa unica. `wk check` pulito; `wk stats` porta il manoscritto a 26.174 parole.
+
+**Session 2026-05-31**: Scritta la prima stesura del Capitolo 14 / file writekit 15 (`manuscript/15-boeing-737-max-mcas.md`, ~2.162 parole). Il capitolo apre la Parte V usando Boeing 737 MAX MCAS come stress-test concreto: non bug isolato ma cucitura tra aerodinamica, mercato, certificazione, training, interfaccia e responsabilità stratificata. Integrate fonti NTSB/JATR/House: assunzioni sul pilota reale, allarmi multipli, single AoA sensor, funzione non valutata abbastanza come sistema integrato, ODA/pressione training. `wk check` pulito; `wk stats` porta il manoscritto a 28.336 parole. Prossimo: Capitolo 15, Knight Capital, leggendo prima SEC/post-mortem e concentrandosi su email/allarmi senza foro e deployment come irreversibilità finanziaria.
