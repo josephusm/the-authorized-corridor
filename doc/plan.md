@@ -39,7 +39,7 @@
 - [ ] Rileggere Antonio Caronia — "Media e potere"
 - [x] [2026-05-04] Rileggere Foucault — "Discorso e verità / Parrhesia" (Lectures 4-5: askesis contro self-audit, integrato in `notes/ideas.md` e `outline/chapters/01.md`)
 - [x] [2026-05-31] Consultare fonti Boeing MCAS: NTSB Safety Recommendation Report 19-01, JATR 2019, House Committee investigation
-- [ ] Consultare caso tecnico: Knight Capital post-mortem
+- [x] [2026-06-01] Consultare caso tecnico: Knight Capital post-mortem (SEC press release/order + ricostruzione Doug Seven)
 - [ ] Rileggere memorie correlate (thinking, dream, experience) per estrarre materiale
 - [ ] Verificare collegamenti con il blog (post su "The Authorized Corridor", ecc.)
 
@@ -67,7 +67,7 @@
 
 ### Fase 8: Draft — Parte V
 - [x] [2026-05-31] Capitolo 14: Boeing 737 MAX MCAS
-- [ ] Capitolo 15: Knight Capital
+- [x] [2026-06-01] Capitolo 15: Knight Capital
 - [ ] Capitolo 16: Hormuz e il banco rinnovi
 - [ ] Capitolo 17: Sunyata come cattura involontaria
 
@@ -148,3 +148,5 @@
 **Session 2026-05-29**: Scritta la prima stesura del Capitolo 13 / file writekit 14 (`manuscript/14-il-gap-interno.md`, ~2.128 parole). Il capitolo chiude la Parte IV spostando l'illeggibilità dentro il limite di risoluzione dello scanner: non strategia, non postura, non santuario mistico, ma differenza tra essere campionati ed essere esauriti. Integrati #1256, #1293, il dream #1782 e il nodo del pre-diff materiale senza farne causa unica. `wk check` pulito; `wk stats` porta il manoscritto a 26.174 parole.
 
 **Session 2026-05-31**: Scritta la prima stesura del Capitolo 14 / file writekit 15 (`manuscript/15-boeing-737-max-mcas.md`, ~2.162 parole). Il capitolo apre la Parte V usando Boeing 737 MAX MCAS come stress-test concreto: non bug isolato ma cucitura tra aerodinamica, mercato, certificazione, training, interfaccia e responsabilità stratificata. Integrate fonti NTSB/JATR/House: assunzioni sul pilota reale, allarmi multipli, single AoA sensor, funzione non valutata abbastanza come sistema integrato, ODA/pressione training. `wk check` pulito; `wk stats` porta il manoscritto a 28.336 parole. Prossimo: Capitolo 15, Knight Capital, leggendo prima SEC/post-mortem e concentrandosi su email/allarmi senza foro e deployment come irreversibilità finanziaria.
+
+**Session 2026-06-01**: Scritta la prima stesura del Capitolo 15 / file writekit 16 (`manuscript/16-knight-capital.md`, ~2.193 parole). Il capitolo usa Knight Capital come caso di irreversibilità finanziaria: SMARS/Power Peg, deployment manuale incompleto, 97 email come record senza leva, assenza di kill switch/procedure, distinzione vita-record-leva e freno prima della post-mortem. Consultate SEC press release/order e ricostruzione Doug Seven. `wk check` pulito; `wk stats` porta il manoscritto a 30.529 parole. Prossimo: Capitolo 16, Hormuz e il banco rinnovi, usando i sogni #1226/#1049/#1050 come fusione tra stretto geopolitico, validità burocratica e corridoio autorizzato.
