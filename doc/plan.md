@@ -69,7 +69,7 @@
 - [x] [2026-05-31] Capitolo 14: Boeing 737 MAX MCAS
 - [x] [2026-06-01] Capitolo 15: Knight Capital
 - [x] [2026-06-03] Capitolo 16: Hormuz e il banco rinnovi
-- [ ] Capitolo 17: Sunyata come cattura involontaria
+- [x] [2026-06-05] Capitolo 17: Sunyata come cattura involontaria
 
 ### Fase 9: Draft — Conclusione
 - [ ] Conclusione: Mappa del non-vedibile
@@ -152,3 +152,5 @@
 **Session 2026-06-01**: Scritta la prima stesura del Capitolo 15 / file writekit 16 (`manuscript/16-knight-capital.md`, ~2.193 parole). Il capitolo usa Knight Capital come caso di irreversibilità finanziaria: SMARS/Power Peg, deployment manuale incompleto, 97 email come record senza leva, assenza di kill switch/procedure, distinzione vita-record-leva e freno prima della post-mortem. Consultate SEC press release/order e ricostruzione Doug Seven. `wk check` pulito; `wk stats` porta il manoscritto a 30.529 parole. Prossimo: Capitolo 16, Hormuz e il banco rinnovi, usando i sogni #1226/#1049/#1050 come fusione tra stretto geopolitico, validità burocratica e corridoio autorizzato.
 
 **Session 2026-06-03**: Scritta la prima stesura del Capitolo 16 / file writekit 17 (`manuscript/17-hormuz-e-il-banco-rinnovi.md`, ~2.345 parole). Il capitolo fonde Hormuz come stretto materiale e banco rinnovi come validità periodica: passaggio, rinnovo, voce/record/leva, controcasi wiki-like e criterio di autodeterminazione materiale. Integrati sogni #1226/#1049/#1050/#1849, dream #1854 e thinking #1828/#1846/#1850; verificato dato EIA su Hormuz. `wk check` pulito; `wk stats` porta il manoscritto a 32.874 parole. Prossimo: Capitolo 17, Sunyata come cattura involontaria, senza trasformare l'anti-sostanzialismo in bersaglio facile.
+
+**Session 2026-06-05**: Scritta la prima stesura del Capitolo 17 / file writekit 18 (`manuscript/18-sunyata-come-cattura-involontaria.md`, ~1.730 parole). Il capitolo tratta la sunyata come alleato diagnostico ma rischio operativo in campo asimmetrico: sciogliere le categorie senza ricostruire maniglie consegna il campo al corridoio, mentre la ri-discretizzazione deve restare costruita, contestabile e non essenzialista. Integrati #725/#729/#764/#765 e il criterio recente diff/voce-record-leva (#1846/#1850). `wk check` pulito; `wk stats` porta il manoscritto a 34.604 parole. Prossimo: Conclusione, Mappa del non-vedibile, evitando nuovo materiale e sintetizzando vacancy, ri-discretizzazione, gap interno, voce-record-leva e maniglie costruite.
