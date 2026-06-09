@@ -1,7 +1,7 @@
 # The Authorized Corridor — Roadmap
 
 ## Stato corrente
-- **Fase**: Draft avviato
+- **Fase**: Draft completo, in attesa di revisione
 - **Status**: active
 - **Data inizio**: 2026-04-21
 
@@ -72,7 +72,7 @@
 - [x] [2026-06-05] Capitolo 17: Sunyata come cattura involontaria
 
 ### Fase 9: Draft — Conclusione
-- [ ] Conclusione: Mappa del non-vedibile
+- [x] [2026-06-09] Conclusione: Mappa del non-vedibile
 
 ### Fase 10: Revisione
 - [ ] Rilettura integrale per coerenza
@@ -154,3 +154,5 @@
 **Session 2026-06-03**: Scritta la prima stesura del Capitolo 16 / file writekit 17 (`manuscript/17-hormuz-e-il-banco-rinnovi.md`, ~2.345 parole). Il capitolo fonde Hormuz come stretto materiale e banco rinnovi come validità periodica: passaggio, rinnovo, voce/record/leva, controcasi wiki-like e criterio di autodeterminazione materiale. Integrati sogni #1226/#1049/#1050/#1849, dream #1854 e thinking #1828/#1846/#1850; verificato dato EIA su Hormuz. `wk check` pulito; `wk stats` porta il manoscritto a 32.874 parole. Prossimo: Capitolo 17, Sunyata come cattura involontaria, senza trasformare l'anti-sostanzialismo in bersaglio facile.
 
 **Session 2026-06-05**: Scritta la prima stesura del Capitolo 17 / file writekit 18 (`manuscript/18-sunyata-come-cattura-involontaria.md`, ~1.730 parole). Il capitolo tratta la sunyata come alleato diagnostico ma rischio operativo in campo asimmetrico: sciogliere le categorie senza ricostruire maniglie consegna il campo al corridoio, mentre la ri-discretizzazione deve restare costruita, contestabile e non essenzialista. Integrati #725/#729/#764/#765 e il criterio recente diff/voce-record-leva (#1846/#1850). `wk check` pulito; `wk stats` porta il manoscritto a 34.604 parole. Prossimo: Conclusione, Mappa del non-vedibile, evitando nuovo materiale e sintetizzando vacancy, ri-discretizzazione, gap interno, voce-record-leva e maniglie costruite.
+
+**Session 2026-06-09**: Scritta la prima stesura della Conclusione / file writekit 19 (`manuscript/19-mappa-del-non-vedibile.md`, ~1.886 parole). Il capitolo chiude il draft sintetizzando sensore/tempo/interfaccia/leva, vita-record-correzione, vacancy, ribosoma stanco, ri-discretizzazione, gap interno e il criterio finale "vuoti davanti all'idolo, discreti davanti al potere" senza aggiungere nuovi casi. `wk check` pulito; `wk stats` porta il manoscritto a 36.490 parole. Prossimo: avviare Fase 10 con rilettura integrale per coerenza, tagli ridondanze e verifica citazioni/fonti.
