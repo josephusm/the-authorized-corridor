@@ -76,6 +76,7 @@
 
 ### Fase 10: Revisione
 - [ ] Rilettura integrale per coerenza
+- [x] [2026-06-11] Revisione mirata Capitolo 16 / file 17: integrato controcaso DSA Art.38 + Amsterdam/Bits of Freedom per evitare la scorciatoia “foro freddo = fuori dalla superficie”
 - [ ] Verifica che ogni capitolo supporti la tesi
 - [ ] Verifica uso coerente dei concetti
 - [ ] Aggiungere citazioni e riferimenti
