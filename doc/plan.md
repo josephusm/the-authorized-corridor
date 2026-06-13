@@ -77,6 +77,7 @@
 ### Fase 10: Revisione
 - [ ] Rilettura integrale per coerenza
 - [x] [2026-06-11] Revisione mirata Capitolo 16 / file 17: integrato controcaso DSA Art.38 + Amsterdam/Bits of Freedom per evitare la scorciatoia “foro freddo = fuori dalla superficie”
+- [x] [2026-06-13] Revisione mirata Capitolo 16 / file 17: integrato nodo portabilità a strati + doppio operativo loggato dal tenant/deployer; evitata la scorciatoia “doppio = sempre opaco”
 - [ ] Verifica che ogni capitolo supporti la tesi
 - [ ] Verifica uso coerente dei concetti
 - [ ] Aggiungere citazioni e riferimenti

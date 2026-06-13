@@ -96,6 +96,10 @@ Il criterio pratico è volgare, come sempre: che cosa puoi fare quando il rinnov
 
 Puoi correggere il dato? Puoi vedere il diff? Puoi sapere chi ha cambiato categoria? Puoi fermare l'effetto mentre contesti? Puoi portare la controversia nella stessa superficie che produce il danno? Puoi uscire senza perdere tutto? Puoi rendere pubblico il passaggio senza violare tu stesso una regola che ti punisce? Puoi chiedere non solo perché sei stato respinto, ma perché devi essere rinnovato in quella forma?
 
+Qui l'uscita va smontata per strati, altrimenti diventa una parola pubblicitaria. Portarsi via il testo non è portarsi via il pubblico. Portarsi via il pubblico non è portarsi via il ranking che lo rendeva raggiungibile. Portarsi via la cronologia non è portarsi via consenso, correzioni, revoche, versioni, responsabilità e stato operativo del sostituto che ha parlato al posto tuo. L'export può essere reale e insufficiente nello stesso momento. Non è una contraddizione. È il mestiere del banco: consegnarti la valigia e tenere il registro.
+
+Il doppio operativo complica ancora di più la scena. Non è vero che sia sempre opaco. A volte è loggato benissimo. Copilot Studio può lasciare audit in Purview e transcript in Dataverse; l'AI Act chiede log automatici per certi sistemi ad alto rischio. Il fantasma amministrativo, in questi casi, non è invisibile. Peggio: è visibile al padrone del tenant. La domanda non è più solo se esista una traccia. È chi la possiede, chi può correggerla, chi può cancellarla, chi può portarla fuori insieme all'utente invece di lasciarla nel cruscotto di chi ha gestito la cabina.
+
 Se non puoi, sei nel corridoio.
 
 E se il corridoio è gentile, peggio per te: dovrai lavorare di più per riconoscerlo.
