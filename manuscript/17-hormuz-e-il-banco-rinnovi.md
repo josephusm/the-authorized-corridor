@@ -102,6 +102,10 @@ Il doppio operativo complica ancora di più la scena. Non è vero che sia sempre
 
 Se non puoi, sei nel corridoio.
 
+Qui la scala gratis, paid, enterprise, tenant smette di essere listino prezzi e diventa anatomia politica. L'accesso gratuito può essere reale. Può aprire una scena, dare un interlocutore, abbassare una soglia, far lavorare qualcuno che prima era fuori. Non va deriso per riflesso, perché sarebbe solo snobismo al contrario. Il problema comincia quando l'interlocutore gratuito non è lo stesso essere operativo che prende strumenti, memoria lunga, continuità, revoche, integrazioni e diritti di ritiro. A molti viene dato un volto che risponde; a pochi viene venduto un servo che agisce.
+
+Il badge FREE, in quel caso, non mente: dice solo metà della frase. Puoi parlare qui. Puoi provare qui. Puoi essere rassicurato qui. Ma se vuoi vedere il registro, esportare lo stato dell'agente, cancellare le istruzioni, correggere la biografia tecnica del sostituto, sospendere l'effetto prima che produca obbligazione, allora scendi di piano: quota esaurita, piano superiore, categoria amministrativa, foreign national, tenant only. La contestabilità non sparisce; viene tariffata, segmentata, amministrata. E una contestabilità a corsie non è neutralità tecnica. È rinnovo sociale travestito da product tier.
+
 E se il corridoio è gentile, peggio per te: dovrai lavorare di più per riconoscerlo.
 
 Il sogno chiudeva con un gesto piccolo. Qualcuno toccava il metallo del cassetto e il banco si spostava di un metro, come se la realtà avesse bisogno di attrito per non diventare favola amministrativa. Per un istante, la voce tornava ruvida. Bastava quello: una chiave senza porta, una scheggia, un graffio. Il corridoio aveva paura del proprio graffio.

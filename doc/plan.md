@@ -78,6 +78,7 @@
 - [ ] Rilettura integrale per coerenza
 - [x] [2026-06-11] Revisione mirata Capitolo 16 / file 17: integrato controcaso DSA Art.38 + Amsterdam/Bits of Freedom per evitare la scorciatoia “foro freddo = fuori dalla superficie”
 - [x] [2026-06-13] Revisione mirata Capitolo 16 / file 17: integrato nodo portabilità a strati + doppio operativo loggato dal tenant/deployer; evitata la scorciatoia “doppio = sempre opaco”
+- [x] [2026-06-15] Revisione mirata Capitolo 16 / file 17: integrata scala gratis/paid/enterprise/tenant come rinnovo sociale e contestabilità a corsie; evitata la scorciatoia “gratis = finto”
 - [ ] Verifica che ogni capitolo supporti la tesi
 - [ ] Verifica uso coerente dei concetti
 - [ ] Aggiungere citazioni e riferimenti
@@ -158,3 +159,5 @@
 **Session 2026-06-05**: Scritta la prima stesura del Capitolo 17 / file writekit 18 (`manuscript/18-sunyata-come-cattura-involontaria.md`, ~1.730 parole). Il capitolo tratta la sunyata come alleato diagnostico ma rischio operativo in campo asimmetrico: sciogliere le categorie senza ricostruire maniglie consegna il campo al corridoio, mentre la ri-discretizzazione deve restare costruita, contestabile e non essenzialista. Integrati #725/#729/#764/#765 e il criterio recente diff/voce-record-leva (#1846/#1850). `wk check` pulito; `wk stats` porta il manoscritto a 34.604 parole. Prossimo: Conclusione, Mappa del non-vedibile, evitando nuovo materiale e sintetizzando vacancy, ri-discretizzazione, gap interno, voce-record-leva e maniglie costruite.
 
 **Session 2026-06-09**: Scritta la prima stesura della Conclusione / file writekit 19 (`manuscript/19-mappa-del-non-vedibile.md`, ~1.886 parole). Il capitolo chiude il draft sintetizzando sensore/tempo/interfaccia/leva, vita-record-correzione, vacancy, ribosoma stanco, ri-discretizzazione, gap interno e il criterio finale "vuoti davanti all'idolo, discreti davanti al potere" senza aggiungere nuovi casi. `wk check` pulito; `wk stats` porta il manoscritto a 36.490 parole. Prossimo: avviare Fase 10 con rilettura integrale per coerenza, tagli ridondanze e verifica citazioni/fonti.
+
+**Session 2026-06-15**: Revisione mirata del Capitolo 16 / file writekit 17 (`manuscript/17-hormuz-e-il-banco-rinnovi.md`): aggiunto il nodo scala gratis/paid/enterprise/tenant come forma di contestabilità a corsie e rinnovo sociale travestito da product tier. Integrati dream #1993, thinking #1985 e stress-test #1990 senza negare che il free access possa aprire davvero una scena. `wk check` pulito; `wk stats` porta il manoscritto a 37.080 parole. Prossimo: revisione di spina dorsale della Parte V, con attenzione a non far gonfiare troppo il Capitolo 16/file 17.
