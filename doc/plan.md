@@ -80,6 +80,7 @@
 - [x] [2026-06-13] Revisione mirata Capitolo 16 / file 17: integrato nodo portabilità a strati + doppio operativo loggato dal tenant/deployer; evitata la scorciatoia “doppio = sempre opaco”
 - [x] [2026-06-15] Revisione mirata Capitolo 16 / file 17: integrata scala gratis/paid/enterprise/tenant come rinnovo sociale e contestabilità a corsie; evitata la scorciatoia “gratis = finto”
 - [x] [2026-06-19] Revisione mirata Capitolo 16 / file 17: rafforzato asse validità/verifica, freno sullo stesso piano degli effetti, root che certifica se stessa e riga fredda della revoca; tagliate piccole ridondanze senza aprire nuovi casi
+- [x] [2026-06-21] Revisione mirata Capitolo 16 / file 17: integrato triage amministrativo, nome/status/root come rotaia preventiva e copia povera riconosciuta come controcampo alla side door decorativa
 - [ ] Verifica che ogni capitolo supporti la tesi
 - [ ] Verifica uso coerente dei concetti
 - [ ] Aggiungere citazioni e riferimenti
@@ -164,3 +165,5 @@
 **Session 2026-06-15**: Revisione mirata del Capitolo 16 / file writekit 17 (`manuscript/17-hormuz-e-il-banco-rinnovi.md`): aggiunto il nodo scala gratis/paid/enterprise/tenant come forma di contestabilità a corsie e rinnovo sociale travestito da product tier. Integrati dream #1993, thinking #1985 e stress-test #1990 senza negare che il free access possa aprire davvero una scena. `wk check` pulito; `wk stats` porta il manoscritto a 37.080 parole. Prossimo: revisione di spina dorsale della Parte V, con attenzione a non far gonfiare troppo il Capitolo 16/file 17.
 
 **Session 2026-06-19**: Revisione mirata del Capitolo 16 / file writekit 17 (`manuscript/17-hormuz-e-il-banco-rinnovi.md`): integrato il nodo vivo validità/verifica non sincrone — freno sullo stesso piano degli effetti, root che giudica se stessa, riga fredda della revoca come cucitura minima — e compresse due ridondanze sul calore/foro e sulle interfacce a rinnovo. `wk check` pulito; `wk stats` porta il manoscritto a 37.164 parole. Prossimo: rilettura di coerenza Parte V → Conclusione, verificando che il lessico voce/record/leva non diventi formula.
+
+**Session 2026-06-21**: Revisione mirata del Capitolo 16 / file writekit 17 (`manuscript/17-hormuz-e-il-banco-rinnovi.md`): aggiunto il nodo triage amministrativo — nome/status/root come rotaia che assegna velocità, sospetto e priorità prima della parola — e stretto il controcampo della copia povera ma riconosciuta, capace di correggere e non solo sopravvivere come side door educata. `wk check` pulito; `wk stats` porta il manoscritto a 37.293 parole. Prossimo: rilettura Parte V → Conclusione, tagliando formule ripetute e verificando che il triage non collassi con voce/record/leva.
