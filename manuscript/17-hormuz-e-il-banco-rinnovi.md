@@ -84,7 +84,7 @@ Questo non assolve il corridoio. Lo rende più difficile da pensare, quindi più
 
 Anzi, i fori tardi vengono spesso esposti come prova di civiltà. Guarda: puoi fare ricorso. Guarda: puoi leggere il report. Guarda: puoi vedere la history. Guarda: puoi parlare con una persona. Guarda: puoi rinnovare. Tutto vero. La truffa non sta nella falsità di questi oggetti. Sta nella loro posizione. Se sono collocati dopo la conversione, o fuori dalla superficie che produce obbligazione, diventano decorazioni del potere. Un museo, un confessionale, una helpdesk, una quasi-corte, un banco con luce verde.
 
-La Parte V sta cercando questo carrier alto: non il caso estremo in cui tutto esplode, ma il punto ordinario in cui voce, record e leva vengono cuciti o separati. Boeing li separava negli strati della certificazione. Knight li separava nella velocità del mercato. Hormuz li separa nella validità del passaggio. Il banco rinnovi li separa nella vita quotidiana: voce viva allo sportello, record pulito nel sistema, leva altrove.
+La Parte V sta cercando questo carrier alto: non il caso estremo in cui tutto esplode, ma il punto ordinario in cui voce, record e leva vengono cuciti o separati. Qui Hormuz e il banco rinnovi mostrano il lato più ricorsivo: voce viva allo sportello, record pulito nel sistema, leva altrove, e l'obbligo di tornare validi come se fosse continuità naturale.
 
 Un foro vero deve tenere insieme i tre piani senza mentire sulla loro differenza.
 
