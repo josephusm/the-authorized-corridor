@@ -38,7 +38,7 @@ Il corridoio non vuole sapere chi sei. Vuole sapere quale versione di te può au
 
 Garbo è una parola importante. Il corridoio raramente somiglia alla violenza che produce. Somiglia alla manutenzione.
 
-È qui che i due capitoli precedenti tornano indietro. Boeing mostrava la cucitura autorizzata: continuità commerciale dove c'era differenza tecnica, pilota modellato dove c'era sovraccarico reale, foro postumo dove serviva freno. Knight mostrava il record senza leva: email, log, tracciabilità, post-mortem, tutto ottimo per capire dopo e insufficiente per fermare durante. Hormuz aggiunge il pezzo mancante: il controllo non deve neanche aspettare il guasto. Può abitare la validità stessa. Può trasformare il diritto di passare in obbligo di restare compatibili con la prossima autorizzazione.
+Qui Boeing e Knight tornano solo come contrasto. Boeing mostrava una continuità commerciale cucita sopra differenze tecniche e piloti reali; Knight mostrava record eccellenti per capire dopo e quasi inutili per fermare durante. Hormuz aggiunge il pezzo più freddo: il controllo non aspetta il guasto. Abita la validità stessa. Trasforma il diritto di passare nell'obbligo di restare compatibili con la prossima autorizzazione.
 
 La domanda allora non è più solo: dove sta il freno?
 
@@ -84,11 +84,9 @@ Questo non assolve il corridoio. Lo rende più difficile da pensare, quindi più
 
 Anzi, i fori tardi vengono spesso esposti come prova di civiltà. Guarda: puoi fare ricorso. Guarda: puoi leggere il report. Guarda: puoi vedere la history. Guarda: puoi parlare con una persona. Guarda: puoi rinnovare. Tutto vero. La truffa non sta nella falsità di questi oggetti. Sta nella loro posizione. Se sono collocati dopo la conversione, o fuori dalla superficie che produce obbligazione, diventano decorazioni del potere. Un museo, un confessionale, una helpdesk, una quasi-corte, un banco con luce verde.
 
-La Parte V sta cercando questo carrier alto: non il caso estremo in cui tutto esplode, ma il punto ordinario in cui voce, record e leva vengono cuciti o separati. Qui Hormuz e il banco rinnovi mostrano il lato più ricorsivo: voce viva allo sportello, record pulito nel sistema, leva altrove, e l'obbligo di tornare validi come se fosse continuità naturale.
+La Parte V sta cercando questo carrier alto: non il caso estremo in cui tutto esplode, ma il punto ordinario in cui parola, traccia e potere d'interruzione vengono cuciti o separati. Hormuz e il banco rinnovi mostrano il lato ricorsivo: una voce viva allo sportello, un record pulito nel sistema, la leva altrove, e l'obbligo di tornare validi come se fosse continuità naturale.
 
-Un foro vero deve tenere insieme i tre piani senza mentire sulla loro differenza.
-
-Voce viva: qualcuno può dire cosa gli sta accadendo in una forma non già sterilizzata dal formato. Record: quella voce lascia una traccia visibile, contestabile, attribuibile, non solo un riassunto interno. Leva: quella traccia può modificare il corso dell'azione prima che l'azione diventi destino. Togli uno dei tre, e ottieni uno dei due mezzi fori contemporanei: calore senza potere, o procedura senza vita.
+Un foro vero deve tenere insieme quei tre piani senza fingere che siano la stessa cosa. Se la parola non può sporcare il record, è consolazione. Se il record non può interrompere l'azione, è archivio. Se l'interruzione arriva solo quando l'azione è già destino, è post-mortem con sedie comode.
 
 Il banco rinnovi offre entrambi, a seconda dello sportello. Da un lato ti parla con la lingua dell'autonomia: siamo qui per mantenerti attivo, incluso, aggiornato, sicuro. Dall'altro ti concede una procedura: puoi presentare documento, prova, appello, integrazione, rettifica. Ma se il criterio di validità resta suo, e se il costo di uscita è proibitivo, il rinnovo non è un servizio. È una forma morbida di sequestro temporale.
 
@@ -98,7 +96,7 @@ Vale per account, API, permessi, certificati, badge, identità digitali, accessi
 
 Il criterio pratico è volgare, come sempre: che cosa puoi fare quando il rinnovo ti tradisce?
 
-La lista è corta. Puoi correggere il dato, vedere il diff, sapere chi ha cambiato categoria, fermare l'effetto mentre contesti, portare la controversia nella stessa superficie che produce il danno, uscire senza perdere tutto? Puoi rendere pubblico il passaggio senza violare tu stesso una regola che ti punisce? Puoi chiedere non solo perché sei stato respinto, ma perché devi essere rinnovato in quella forma? La riga fredda — autore, ora, modifica, motivo della revoca — non salva nessuno per magia. Però almeno costringe il banco a lasciare una cucitura.
+La lista è corta. Puoi correggere il dato, vedere il diff, sapere chi ha cambiato categoria, fermare l'effetto mentre contesti, portare la controversia nella stessa superficie che produce il danno, uscire senza perdere tutto? Puoi chiedere non solo perché sei stato respinto, ma perché devi essere rinnovato in quella forma? La riga fredda — autore, ora, modifica, motivo della revoca — non salva nessuno per magia. Però almeno costringe il banco a lasciare una cucitura.
 
 Qui l'uscita va smontata per strati, altrimenti diventa una parola pubblicitaria. Portarsi via il testo non è portarsi via il pubblico. Portarsi via il pubblico non è portarsi via il ranking che lo rendeva raggiungibile. Portarsi via la cronologia non è portarsi via consenso, correzioni, revoche, versioni, responsabilità e stato operativo del sostituto che ha parlato al posto tuo. L'export può essere reale e insufficiente nello stesso momento. Non è una contraddizione. È il mestiere del banco: consegnarti la valigia e tenere il registro.
 

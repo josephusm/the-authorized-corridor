@@ -87,6 +87,7 @@
 - [x] [2026-06-29] Campione primario Community Notes / GitHub issue-PR / Certificate Transparency / RSS-Atom: distinta la scala atto riconosciuto → contesto → ricevuta → specchio; note integrate in `notes/ideas.md` prima di nuova teoria
 - [x] [2026-07-01] Revisione leggera della Conclusione / file 19: integrato il campione Community Notes / GitHub issue-PR / Certificate Transparency / RSS-Atom come scala atto-contesto-ricevuta-specchio; aggiunto OSM come controcampo del rappresentato correttore ordinario e il criterio del formato in cui la ferita diventa ricevibile
 - [x] [2026-07-03] Rilettura di spina dorsale Parte V → Conclusione: tagliata ripetizione Boeing/Knight/Hormuz nel Capitolo 16/file 17 e stretto nella Conclusione il mapping gesto/standing/attuatore per Boeing, Knight, Hormuz/banco rinnovi e sunyata senza aprire nuovi casi
+- [x] [2026-07-07] Audit integrale di coerenza su spina tesi/concetti ricorrenti: tutti i capitoli restano agganciati al movimento del libro; tagliate formule astratte e ridondanze in `manuscript/17-hormuz-e-il-banco-rinnovi.md` e `manuscript/19-mappa-del-non-vedibile.md`, senza aprire nuovi casi
 - [ ] Verifica che ogni capitolo supporti la tesi
 - [ ] Verifica uso coerente dei concetti
 - [ ] Aggiungere citazioni e riferimenti
