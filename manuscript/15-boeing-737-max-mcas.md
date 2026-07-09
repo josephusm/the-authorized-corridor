@@ -26,7 +26,7 @@ Il punto brutale è che MCAS, nella sua configurazione originale, poteva affidar
 
 Questo è il corridoio in forma ingegneristica: non passa ciò che è vero, passa ciò che il circuito è autorizzato a trattare come input valido.
 
-Dopo i disastri, il NTSB formulò il punto senza poesia, quindi meglio: le analisi di sicurezza avevano assunto un certo riconoscimento e una certa risposta da parte dei piloti, ma gli equipaggi reali si trovarono davanti a molteplici allarmi e indicazioni contemporanee. Robert Sumwalt disse che c'era un gap tra le assunzioni usate per certificare il MAX e l'esperienza reale degli equipaggi. È una frase quasi perfetta per questo libro, e purtroppo non l'ho inventata io. Il gap non era fuori dal sistema. Era dentro l'immagine autorizzata del pilota.
+Dopo i disastri, il NTSB formulò il punto senza poesia, quindi meglio: le analisi di sicurezza avevano assunto un certo riconoscimento e una certa risposta da parte dei piloti, ma gli equipaggi reali si trovarono davanti a molteplici allarmi e indicazioni contemporanee. Robert Sumwalt disse che c'era un gap tra le assunzioni usate per certificare il MAX e l'esperienza reale degli equipaggi.[^boeing-ntsb] È una frase quasi perfetta per questo libro, e purtroppo non l'ho inventata io. Il gap non era fuori dal sistema. Era dentro l'immagine autorizzata del pilota.
 
 Il pilota certificativo era leggibile.
 
@@ -48,7 +48,7 @@ Il corridoio ama questa forma di imputabilità a pezzi. Non perché assolve tutt
 
 E la cucitura non ha mai un modulo solo.
 
-Il Joint Authorities Technical Review, dopo, vide molte cose che prima erano rimaste troppo distribuite: MCAS non valutato come funzione integrata con sufficiente trasparenza; FAA non pienamente informata dell'espansione della funzione; documentazione e comunicazione inadeguate; bisogno di aggiornare il modo in cui si assumono riconoscimento e tempi di risposta dei piloti. La House Committee investigation aggiunse il lato politico-industriale: pressione sui costi e sui tempi, debolezze dell'ODA, scelte di training che minimizzavano il valore dell'addestramento e inibivano soluzioni tecniche più robuste. Non sono dettagli da appendice. Sono la mappa della cucitura.
+Il Joint Authorities Technical Review, dopo, vide molte cose che prima erano rimaste troppo distribuite: MCAS non valutato come funzione integrata con sufficiente trasparenza; FAA non pienamente informata dell'espansione della funzione; documentazione e comunicazione inadeguate; bisogno di aggiornare il modo in cui si assumono riconoscimento e tempi di risposta dei piloti. La House Committee investigation aggiunse il lato politico-industriale: pressione sui costi e sui tempi, debolezze dell'ODA, scelte di training che minimizzavano il valore dell'addestramento e inibivano soluzioni tecniche più robuste.[^boeing-jatr-house] Non sono dettagli da appendice. Sono la mappa della cucitura.
 
 La domanda allora non è: perché nessuno ha visto MCAS?
 
@@ -99,3 +99,7 @@ Non lo ha fatto.
 E quando un aereo cade, anche la teoria deve smettere di parlare in punta di piedi. Il corridoio autorizzato uccide quando riesce a trasformare la cucitura intera in una serie di passaggi localmente accettabili. Nessun passaggio, preso da solo, porta tutto il peso. Tutti insieme portano l'aereo giù.
 
 La post-mortem può ricostruire la sequenza. Il foro vivo doveva interromperla.
+
+[^boeing-ntsb]: National Transportation Safety Board, *Safety Recommendation Report ASR-19-01*, 2019, sulla distanza tra assunzioni di safety assessment e risposta effettiva degli equipaggi davanti ad allarmi multipli.
+
+[^boeing-jatr-house]: Joint Authorities Technical Review, *Boeing 737 MAX Flight Control System: Observations, Findings, and Recommendations*, 2019; U.S. House Committee on Transportation and Infrastructure, *The Design, Development & Certification of the Boeing 737 MAX*, 2020.

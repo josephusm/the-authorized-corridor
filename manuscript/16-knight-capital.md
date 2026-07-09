@@ -14,13 +14,13 @@ Il 1 agosto 2012 Knight Capital era uno dei maggiori market maker negli Stati Un
 
 Quando quella mano sbaglia, non sbaglia in una stanza chiusa.
 
-Secondo la SEC, Knight aveva spostato nel 2005 una parte del codice a un punto precedente della sequenza, rendendo difettosa una vecchia funzione del router. Quella funzione non doveva più essere usata, ma rimase nel sistema come residuo morto. In preparazione al Retail Liquidity Program, a fine luglio 2012 Knight distribuì nuovo codice sullo stesso router. La ricostruzione post-mortem più citata aggiunge il dettaglio operativo più sporco: il deployment manuale coprì sette server su otto; su uno rimase il vecchio codice, con la nuova grammatica abbastanza presente da riattivare la funzione zombie. Non serve mitizzare il dettaglio. È banale proprio nel modo giusto. Un server non aggiornato. Una funzione vecchia lasciata dentro. Un flag riusato. Un sistema troppo veloce per trattare la banalità come pericolo politico.
+Secondo la SEC, Knight aveva spostato nel 2005 una parte del codice a un punto precedente della sequenza, rendendo difettosa una vecchia funzione del router. Quella funzione non doveva più essere usata, ma rimase nel sistema come residuo morto. In preparazione al Retail Liquidity Program, a fine luglio 2012 Knight distribuì nuovo codice sullo stesso router. La ricostruzione post-mortem più citata aggiunge il dettaglio operativo più sporco: il deployment manuale coprì sette server su otto; su uno rimase il vecchio codice, con la nuova grammatica abbastanza presente da riattivare la funzione zombie.[^knight-sec-seven] Non serve mitizzare il dettaglio. È banale proprio nel modo giusto. Un server non aggiornato. Una funzione vecchia lasciata dentro. Un flag riusato. Un sistema troppo veloce per trattare la banalità come pericolo politico.
 
 Alle 9:30 il mercato apre. Gli ordini eleggibili per il nuovo programma attraversano SMARS. Su una parte dell'infrastruttura tutto funziona. Sul server sbagliato, invece, il vecchio Power Peg torna vivo. La funzione avrebbe dovuto tenere conto degli ordini figli rispetto all'ordine padre, fermando l'emissione quando l'ordine era stato completato. Ma dopo la modifica del 2005 non possedeva più il pezzo necessario per sapere di aver finito. Continuava a mandare ordini.
 
 Questa è la forma finanziaria del loop chiuso: l'azione non aspetta la comprensione.
 
-Durante i primi quarantacinque minuti di mercato, il router inviò più di quattro milioni di ordini nel tentativo di riempire appena 212 ordini cliente. Scambiò più di 397 milioni di azioni. Accumulò posizioni indesiderate per miliardi di dollari e produsse una perdita superiore a 460 milioni. La SEC impose poi una sanzione da 12 milioni per violazioni della Market Access Rule. Sono numeri grandi, quindi rischiano di diventare nebbia. Il numero utile è un altro: quarantacinque minuti. Il tempo in cui il sistema può devastarsi restando, formalmente, leggibile dopo.
+Durante i primi quarantacinque minuti di mercato, il router inviò più di quattro milioni di ordini nel tentativo di riempire appena 212 ordini cliente. Scambiò più di 397 milioni di azioni. Accumulò posizioni indesiderate per miliardi di dollari e produsse una perdita superiore a 460 milioni. La SEC impose poi una sanzione da 12 milioni per violazioni della Market Access Rule.[^knight-sec] Sono numeri grandi, quindi rischiano di diventare nebbia. Il numero utile è un altro: quarantacinque minuti. Il tempo in cui il sistema può devastarsi restando, formalmente, leggibile dopo.
 
 La post-mortem, infatti, è ricca.
 
@@ -64,7 +64,7 @@ Lo stesso vale per l'automazione.
 
 Automatizzare il deployment non basta se automatizzi anche la fiducia cieca. Automatizzare i controlli non basta se i controlli misurano solo ciò che il modello ha già previsto. Automatizzare il risk management non basta se l'account che riceve le esecuzioni non è agganciato ai limiti aggregati dell'esposizione. La questione non è quanta automazione c'è. La questione è se l'automazione possiede un'immagine dei propri modi di fallire abbastanza concreta da mettere ostacoli davanti al danno, non solo descrizioni dietro.
 
-La SEC lo disse con linguaggio da regolatore, quindi più freddo e più utile: broker e dealer devono guardare ogni componente dei propri sistemi e chiedersi cosa accade se quel componente malfunziona, e quali reti di sicurezza limitano il danno. È una frase semplice. Anche troppo semplice. Ma dentro c'è una politica della progettazione: non chiedere solo “funziona?”, chiedere “come ferisce quando smette di funzionare?”.
+La SEC lo disse con linguaggio da regolatore, quindi più freddo e più utile: broker e dealer devono guardare ogni componente dei propri sistemi e chiedersi cosa accade se quel componente malfunziona, e quali reti di sicurezza limitano il danno.[^knight-sec] È una frase semplice. Anche troppo semplice. Ma dentro c'è una politica della progettazione: non chiedere solo “funziona?”, chiedere “come ferisce quando smette di funzionare?”.
 
 Il corridoio autorizzato tende a non fare questa seconda domanda, perché la seconda domanda rompe la fiction dell'ammissibilità.
 
@@ -99,3 +99,7 @@ Il corridoio autorizzato non è il muro che blocca l'ordine falso. È il disposi
 Knight Capital ha prodotto molti segnali. Non ha prodotto, in tempo, un arresto.
 
 Quarantacinque minuti dopo, il museo era pieno.
+
+[^knight-sec-seven]: SEC, Administrative Proceeding File No. 3-15570, *In the Matter of Knight Capital Americas LLC*, 2013; Doug Seven, “Knightmare: A DevOps Cautionary Tale”, 2014, per la ricostruzione operativa del deployment incompleto.
+
+[^knight-sec]: SEC, Administrative Proceeding File No. 3-15570, *In the Matter of Knight Capital Americas LLC*, 2013.

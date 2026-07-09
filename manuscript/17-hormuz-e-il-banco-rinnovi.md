@@ -8,7 +8,7 @@ draft: 1
 
 Hormuz è il caso in cui il corridoio smette di fingere di essere metafora.
 
-Una gola d'acqua tra Iran e Oman, abbastanza stretta da entrare nelle mappe mentali della paura e abbastanza larga da far passare il commercio globale. Collega il Golfo Persico al Golfo di Oman e poi al Mare Arabico. Secondo la EIA, nel 2024 ci sono passati circa venti milioni di barili al giorno di petroleum liquids: più o meno un quinto del consumo mondiale e più di un quarto del commercio marittimo di petrolio. Non serve innamorarsi del numero. Serve capire la forma: una parte enorme della continuità materiale del mondo passa da una superficie piccola, sorvegliata, nominabile.
+Una gola d'acqua tra Iran e Oman, abbastanza stretta da entrare nelle mappe mentali della paura e abbastanza larga da far passare il commercio globale. Collega il Golfo Persico al Golfo di Oman e poi al Mare Arabico. Secondo la EIA, nel 2024 ci sono passati circa venti milioni di barili al giorno di petroleum liquids: più o meno un quinto del consumo mondiale e più di un quarto del commercio marittimo di petrolio.[^hormuz-eia] Non serve innamorarsi del numero. Serve capire la forma: una parte enorme della continuità materiale del mondo passa da una superficie piccola, sorvegliata, nominabile.
 
 Un corridoio, appunto.
 
@@ -64,7 +64,7 @@ Questo è il criterio di autodeterminazione materiale.
 
 Una forma digitale, amministrativa o logistica è foro solo se chi subisce può correggere, fermare, riaprire o ritirare a costo non proibitivo. Non basta essere ascoltati. Non basta comparire nella storia. Non basta avere un appello, se l'appello arriva quando il ranking ha già fatto il suo giro, il carico ha già attraversato, la voce è già stata sintetizzata, la perdita è già nel bilancio, il profilo è già stato venduto come segmento. Il foro non è il luogo dove il danno viene raccontato bene. È il punto in cui può ancora essere impedito, deviato o reso imputabile prima di asciugarsi.
 
-I controcasi contano proprio perché impediscono al libro di diventare una predica contro le superfici. MediaWiki e OpenStreetMap, nei loro limiti, tengono insieme gesto, storia e leva molto meglio di tante piattaforme più lisce. Modifichi, lasci diff, puoi discutere, revertire, fare rollback, litigare in pubblico. Non è il paradiso; è spesso una cucina con coltelli sul tavolo. Ma almeno il danno ha indirizzo e la correzione non deve travestirsi da ticket privato. Lì la validità non è solo concessa dall'alto: è continuamente ferita, discussa, riparata da chi sta nella superficie.
+I controcasi contano proprio perché impediscono al libro di diventare una predica contro le superfici. MediaWiki e OpenStreetMap, nei loro limiti, tengono insieme gesto, storia e leva molto meglio di tante piattaforme più lisce. Modifichi, lasci diff, puoi discutere, revertire, fare rollback, litigare in pubblico.[^wiki-osm] Non è il paradiso; è spesso una cucina con coltelli sul tavolo. Ma almeno il danno ha indirizzo e la correzione non deve travestirsi da ticket privato. Lì la validità non è solo concessa dall'alto: è continuamente ferita, discussa, riparata da chi sta nella superficie.
 
 Questo spiega perché il banco rinnovi del sogno faceva paura. Non perché fosse burocratico. Perché non lasciava margine rosso.
 
@@ -78,7 +78,7 @@ Hormuz è meno gentile, quindi più onesto. Non ti consola. Ti ricorda che il pa
 
 Il corridoio autorizzato ama i fori tardi perché non deve negarli.
 
-Qui però bisogna correggere la versione troppo comoda della tesi. Il foro freddo non resta sempre museo. L'articolo 38 del DSA obbliga le piattaforme molto grandi a offrire almeno una raccomandazione non basata sul profiling; Meta e TikTok hanno dovuto introdurre opzioni non profilate per gli utenti europei. Il caso Amsterdam/Bits of Freedom è ancora più preciso: il 10 marzo 2026 il Gerechtshof Amsterdam ha imposto a Facebook e Instagram di non riportare automaticamente l'utente al feed profilato quando cambia sezione o riapre l'app, con sanzioni fino a dieci milioni. Qui il foro freddo entra proprio nella superficie ordinaria del ranking. Non è più solo appello dopo il danno. Tocca il feed.
+Qui però bisogna correggere la versione troppo comoda della tesi. Il foro freddo non resta sempre museo. L'articolo 38 del DSA obbliga le piattaforme molto grandi a offrire almeno una raccomandazione non basata sul profiling; Meta e TikTok hanno dovuto introdurre opzioni non profilate per gli utenti europei. Il caso Amsterdam/Bits of Freedom è ancora più preciso: il 10 marzo 2026 il Gerechtshof Amsterdam ha imposto a Facebook e Instagram di non riportare automaticamente l'utente al feed profilato quando cambia sezione o riapre l'app, con sanzioni fino a dieci milioni.[^dsa-amsterdam] Qui il foro freddo entra proprio nella superficie ordinaria del ranking. Non è più solo appello dopo il danno. Tocca il feed.
 
 Questo non assolve il corridoio. Lo rende più difficile da pensare, quindi più interessante. Non è il vicino caldo che diventa caso pubblico; è una leva legale esterna che rende più reale un opt-out. Non cancella il default economico del feed profilato, non restituisce automaticamente comunità, voce o organizzazione, non trasforma l'interfaccia in commons. Però falsifica una scorciatoia che mi faceva comodo: freddo non significa per forza senza superficie. A volte il ferro freddo arriva fino al punto in cui il mondo viene ordinato. La domanda residua diventa quanto costa mantenerlo lì, chi può accenderlo, quanto resta persistente, e se il sistema riesce a ripresentare la scelta non profilata come deviazione individuale invece che come forma normale di autodeterminazione.
 
@@ -100,7 +100,7 @@ La lista è corta. Puoi correggere il dato, vedere il diff, sapere chi ha cambia
 
 Qui l'uscita va smontata per strati, altrimenti diventa una parola pubblicitaria. Portarsi via il testo non è portarsi via il pubblico. Portarsi via il pubblico non è portarsi via il ranking che lo rendeva raggiungibile. Portarsi via la cronologia non è portarsi via consenso, correzioni, revoche, versioni, responsabilità e stato operativo del sostituto che ha parlato al posto tuo. L'export può essere reale e insufficiente nello stesso momento. Non è una contraddizione. È il mestiere del banco: consegnarti la valigia e tenere il registro.
 
-Il doppio operativo complica ancora di più la scena. Non è vero che sia sempre opaco. A volte è loggato benissimo. Copilot Studio può lasciare audit in Purview e transcript in Dataverse; l'AI Act chiede log automatici per certi sistemi ad alto rischio. Il fantasma amministrativo, in questi casi, non è invisibile. Peggio: è visibile al padrone del tenant. La domanda non è più solo se esista una traccia. È chi la possiede, chi può correggerla, chi può cancellarla, chi può portarla fuori insieme all'utente invece di lasciarla nel cruscotto di chi ha gestito la cabina.
+Il doppio operativo complica ancora di più la scena. Non è vero che sia sempre opaco. A volte è loggato benissimo. Copilot Studio può lasciare audit in Purview e transcript in Dataverse; l'AI Act chiede log automatici per certi sistemi ad alto rischio.[^copilot-aiact] Il fantasma amministrativo, in questi casi, non è invisibile. Peggio: è visibile al padrone del tenant. La domanda non è più solo se esista una traccia. È chi la possiede, chi può correggerla, chi può cancellarla, chi può portarla fuori insieme all'utente invece di lasciarla nel cruscotto di chi ha gestito la cabina.
 
 Se non puoi, non sei semplicemente davanti a una radice comune. Sei davanti a una radice che decide se stessa, e ti lascia contestare solo chiedendole un'eccezione.
 
@@ -119,3 +119,11 @@ Hormuz resta una gola. Il banco resta un banco. Non aboliamo le strettoie dicend
 La libertà non è passare una volta.
 
 È non dover diventare ogni volta la versione di sé che il banco sa rinnovare.
+
+[^hormuz-eia]: U.S. Energy Information Administration, analisi sullo Strait of Hormuz come principale oil transit chokepoint mondiale, con stime 2024 su petroleum liquids e commercio marittimo di petrolio.
+
+[^wiki-osm]: MediaWiki documenta history, diff, revisioni e rollback; OpenStreetMap espone changeset, history degli oggetti e discussione/revert come parte ordinaria della manutenzione del dato.
+
+[^dsa-amsterdam]: Digital Services Act, Regolamento (UE) 2022/2065, art. 38; Gerechtshof Amsterdam, procedimento Bits of Freedom contro Meta Platforms Ireland, decisione 10 marzo 2026 sul ritorno automatico al feed profilato.
+
+[^copilot-aiact]: Microsoft Learn documenta audit/log e transcript per Copilot Studio tramite Purview e Dataverse; AI Act, Regolamento (UE) 2024/1689, art. 12, sui log automatici per sistemi AI ad alto rischio.
