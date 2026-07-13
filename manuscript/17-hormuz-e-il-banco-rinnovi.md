@@ -94,9 +94,9 @@ Non tutto ciò che scade opprime. Ma tutto ciò che scade davanti a un solo prop
 
 Vale per account, API, permessi, certificati, badge, identità digitali, accessi lavorativi, reputazioni, strumenti di pagamento. La modernità amministrativa non ha più bisogno di chiuderti fuori una volta per tutte. Può lasciarti dentro a intervalli e chiamare la proroga sicurezza, qualità, compliance, trust. Qualche volta ha ragione. Spesso ha interesse.
 
-Il criterio pratico è volgare, come sempre: che cosa puoi fare quando il rinnovo ti tradisce?
+Il criterio pratico è volgare, come sempre: che cosa puoi fare quando il rinnovo ti tradisce, e chi paga il passaggio fino alla contestazione?
 
-La lista è corta. Puoi correggere il dato, vedere il diff, sapere chi ha cambiato categoria, fermare l'effetto mentre contesti, portare la controversia nella stessa superficie che produce il danno, uscire senza perdere tutto? Puoi chiedere non solo perché sei stato respinto, ma perché devi essere rinnovato in quella forma? La riga fredda — autore, ora, modifica, motivo della revoca — non salva nessuno per magia. Però almeno costringe il banco a lasciare una cucitura.
+La lista va tenuta corta. Puoi correggere il dato, vedere il diff, sapere chi ha cambiato categoria, fermare l'effetto mentre contesti, portare la controversia nella stessa superficie che produce il danno, uscire senza perdere tutto? Puoi chiedere non solo perché sei stato respinto, ma perché devi essere rinnovato in quella forma? La riga fredda — autore, ora, modifica, motivo della revoca — non salva nessuno per magia. Però almeno costringe il banco a lasciare una cucitura e a dichiarare chi paga la continuità del record dopo la prima correzione.
 
 Qui l'uscita va smontata per strati, altrimenti diventa una parola pubblicitaria. Portarsi via il testo non è portarsi via il pubblico. Portarsi via il pubblico non è portarsi via il ranking che lo rendeva raggiungibile. Portarsi via la cronologia non è portarsi via consenso, correzioni, revoche, versioni, responsabilità e stato operativo del sostituto che ha parlato al posto tuo. L'export può essere reale e insufficiente nello stesso momento. Non è una contraddizione. È il mestiere del banco: consegnarti la valigia e tenere il registro.
 

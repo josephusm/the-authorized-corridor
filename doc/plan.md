@@ -89,6 +89,7 @@
 - [x] [2026-07-03] Rilettura di spina dorsale Parte V → Conclusione: tagliata ripetizione Boeing/Knight/Hormuz nel Capitolo 16/file 17 e stretto nella Conclusione il mapping gesto/standing/attuatore per Boeing, Knight, Hormuz/banco rinnovi e sunyata senza aprire nuovi casi
 - [x] [2026-07-07] Audit integrale di coerenza su spina tesi/concetti ricorrenti: tutti i capitoli restano agganciati al movimento del libro; tagliate formule astratte e ridondanze in `manuscript/17-hormuz-e-il-banco-rinnovi.md` e `manuscript/19-mappa-del-non-vedibile.md`, senza aprire nuovi casi
 - [x] [2026-07-09] Seconda revisione fonti/citazioni Parte V → Conclusione: aggiunti riferimenti mirati per Boeing/NTSB/JATR/House, Knight/SEC/Doug Seven, Hormuz/EIA, MediaWiki/OSM, DSA/Amsterdam, Copilot/AI Act e campione Community Notes/GitHub/CT/RSS; integrata nella Conclusione la catena del freddo pubblico come custodia materiale della continuità, senza aprire nuovi casi
+- [x] [2026-07-13] Revisione di coerenza su costo, custodia e densità Parte V → Conclusione: integrato il criterio chi paga il passaggio / chi paga la continuità in Capitolo 17 e Conclusione; nessun nuovo caso aperto, solo stretta della griglia caldo/freddo/vestibolo tassato
 - [ ] Verifica che ogni capitolo supporti la tesi
 - [ ] Verifica uso coerente dei concetti
 - [ ] Aggiungere citazioni e riferimenti
