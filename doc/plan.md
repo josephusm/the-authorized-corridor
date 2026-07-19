@@ -92,6 +92,7 @@
 - [x] [2026-07-13] Revisione di coerenza su costo, custodia e densità Parte V → Conclusione: integrato il criterio chi paga il passaggio / chi paga la continuità in Capitolo 17 e Conclusione; nessun nuovo caso aperto, solo stretta della griglia caldo/freddo/vestibolo tassato
 - [x] [2026-07-15] Revisione mirata della Conclusione / file 19: integrata la diagnostica della correction surface — superficie decorativa e portante producono la stessa carta al momento dell'ascolto; il test vero è il diff dell'oggetto successivo, con latenza e fedeltà proporzionate alla ferita. Nessun nuovo caso aperto.
 - [x] [2026-07-17] Revisione mirata della Conclusione / file 19: raffinata la diagnostica della correction surface con rampa merci, cablaggio/trigger/percorso di esecuzione e distinzione fra ispezione statica e diff comportamentale. Integrato “open custodito” come criterio di continuità materiale, senza aprire nuovi casi.
+- [x] [2026-07-19] Audit integrale tesi/concetti + revisione mirata della Conclusione / file 19: integrata la porta grigia come soglia pre-classificazione (oggetto senza specie, tassonomia modificabile dal basso), allineati `thesis.md` e `concepts/corridoio-autorizzato.md`, compresso un ritornello formulaico su diff/record/foro senza aprire nuovi casi.
 - [ ] Verifica che ogni capitolo supporti la tesi
 - [ ] Verifica uso coerente dei concetti
 - [ ] Aggiungere citazioni e riferimenti
