@@ -8,7 +8,7 @@ draft: 1
 
 La sunyata entra nel libro come un alleato sospetto.
 
-All'inizio sembrava il coltello giusto. Se il corridoio autorizzato vive trattando le categorie come sostanze, allora l'anti-sostanzialismo dovrebbe ferirlo. Se il carrier funziona perché fa circolare un segno come se avesse un referente stabile, allora dire che quel referente non ha natura propria dovrebbe togliere pavimento al carrier. Se Hormuz è una relazione e non una cosa, se il rinnovo è una pratica e non un destino, se la firma è una cucitura e non l'identità, allora la sunyata — vuoto di esistenza autonoma, niente svabhava, niente natura propria — sembra il solvente perfetto.
+All'inizio sembrava il coltello giusto. Se il corridoio autorizzato vive trattando le categorie come sostanze, allora l'anti-sostanzialismo dovrebbe ferirlo. Se il carrier funziona perché fa circolare un segno come se avesse un referente stabile, allora dire che quel referente non ha natura propria dovrebbe togliere pavimento al carrier. Se Hormuz è una relazione e non una cosa, se il rinnovo è una pratica e non un destino, se la firma è una cucitura e non l'identità, allora la sunyata — vuoto di esistenza autonoma, niente svabhava, niente natura propria[^sunyata-nagarjuna] — sembra il solvente perfetto.
 
 Bella teoria. Peccato per il mondo.
 
@@ -75,4 +75,6 @@ Con quella seconda metà, forse diventa disciplina: non credere alla natura prop
 Il corridoio ha paura di questa forma di intelligenza perché non sa liquidarla come essenzialismo e non può assorbirla come fluidità. È troppo costruita per essere sacra, troppo ruvida per essere esperienza utente.
 
 Forse la resistenza illeggibile non è il puro diventare vuoti. Forse è imparare quando dissolvere e quando cristallizzare. Vuoti davanti all'idolo, discreti davanti al potere. Senza svabhava, sì. Senza maniglia, no.
+
+[^sunyata-nagarjuna]: Nel lessico madhyamaka, il riferimento minimo è Nāgārjuna, *Mūlamadhyamakakārikā*: il nesso tra pratītyasamutpāda, śūnyatā e assenza di svabhāva impedisce di trattare il vuoto come nichilismo semplice o come nuova sostanza negativa.
 
