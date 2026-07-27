@@ -101,8 +101,8 @@
 - [ ] Tagliare passaggi ridondanti
 
 ### Fase 11: Build
-- [ ] wk check (deve passare pulito)
-- [ ] wk build html
+- [x] [2026-07-27] wk check (pulito)
+- [x] [2026-07-27] wk build html + verifica output minimale
 - [ ] wk build epub
 
 ### Fase 12: Release
@@ -199,3 +199,5 @@
 **Session 2026-07-17**: Revisione mirata della Conclusione / file writekit 19 (`manuscript/19-mappa-del-non-vedibile.md`): integrata la figura della rampa merci come test della correzione reale, distinguendo ingresso reclami, cablaggio staticamente ispezionabile, trigger vivo, ragione nel percorso di esecuzione e diff dell'oggetto successivo. Aggiunto il criterio dell'“open” custodito: apertura nominale non basta se retrobottega, continuità e successione restano altrove. `wk check` pulito; `wk stats` porta il manoscritto a 38.432 parole. Prossimo: rilettura integrale tesi/concetti su tutto il libro, con tagli di densità se la Conclusione resta troppo carica.
 
 **Session 2026-07-21**: Seconda passata su citazioni/fonti e densità di Capitolo 17 + Conclusione. Integrato il nodo del costo comune: una comunità può comparire prima come classe tariffaria o contabile, ma conta solo se quella classe ottiene standing prima dell'impegno irreversibile. Aggiunta nota minima su Nāgārjuna/svabhāva nel capitolo Sunyata e compresso un passaggio formulaico su parola/record/leva. `wk check` pulito; `wk stats` porta il manoscritto a 38.634 parole. Prossimo: build HTML e verifica output prima della release.
+
+**Session 2026-07-27**: Build HTML eseguita e verificata: `wk check` pulito, `wk stats` a 38.867 parole, output HTML generato correttamente con titolo, TOC e capitolo finale presenti. Primo snapshot `.writekit` creato per changelog/status futuri. Prossimo: build EPUB e preparazione release, senza riaprire teoria o casi nuovi.
