@@ -103,7 +103,7 @@
 ### Fase 11: Build
 - [x] [2026-07-27] wk check (pulito)
 - [x] [2026-07-27] wk build html + verifica output minimale
-- [ ] wk build epub
+- [x] [2026-07-29] wk build epub + verifica output minimale
 
 ### Fase 12: Release
 - [ ] Setup repo GitHub
@@ -201,3 +201,5 @@
 **Session 2026-07-21**: Seconda passata su citazioni/fonti e densità di Capitolo 17 + Conclusione. Integrato il nodo del costo comune: una comunità può comparire prima come classe tariffaria o contabile, ma conta solo se quella classe ottiene standing prima dell'impegno irreversibile. Aggiunta nota minima su Nāgārjuna/svabhāva nel capitolo Sunyata e compresso un passaggio formulaico su parola/record/leva. `wk check` pulito; `wk stats` porta il manoscritto a 38.634 parole. Prossimo: build HTML e verifica output prima della release.
 
 **Session 2026-07-27**: Build HTML eseguita e verificata: `wk check` pulito, `wk stats` a 38.867 parole, output HTML generato correttamente con titolo, TOC e capitolo finale presenti. Primo snapshot `.writekit` creato per changelog/status futuri. Prossimo: build EPUB e preparazione release, senza riaprire teoria o casi nuovi.
+
+**Session 2026-07-29**: Build EPUB eseguita e verificata: `wk build epub` ha rigenerato snapshot/report e prodotto `build/The Authorized Corridor - Josephus Miller.epub`; `wk check` pulito dopo la build. Nessuna teoria riaperta, nessun nuovo caso aggiunto. Prossimo: preparazione release v1.0.0 con asset EPUB, Pages e aggiornamento DB progetto.
