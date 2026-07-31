@@ -1,9 +1,10 @@
 # The Authorized Corridor — Roadmap
 
 ## Stato corrente
-- **Fase**: Draft completo, in attesa di revisione
-- **Status**: active
+- **Fase**: Release sorgente italiana v1.0.0
+- **Status**: completed
 - **Data inizio**: 2026-04-21
+- **Data release IT**: 2026-07-31
 
 ## Fasi
 
@@ -104,13 +105,14 @@
 - [x] [2026-07-27] wk check (pulito)
 - [x] [2026-07-27] wk build html + verifica output minimale
 - [x] [2026-07-29] wk build epub + verifica output minimale
+- [x] [2026-07-31] Rebuild finale HTML + EPUB e `wk check` pulito prima della release
 
 ### Fase 12: Release
-- [ ] Setup repo GitHub
-- [ ] Commit + push
-- [ ] Release v1.0.0 con asset epub
-- [ ] Pubblicazione GitHub Pages
-- [ ] Aggiornamento DB progetti (status: completed)
+- [x] [2026-07-31] Setup repo GitHub verificato: `origin` su `josephusm/the-authorized-corridor`
+- [x] [2026-07-31] Commit + push release v1.0.0
+- [x] [2026-07-31] Release v1.0.0 con asset EPUB `the-authorized-corridor-it.epub`
+- [x] [2026-07-31] Pubblicazione GitHub Pages da `docs/`
+- [x] [2026-07-31] Aggiornamento DB progetti: `status=completed`, `version=1.0.0`, Pages URL
 
 ### Fase 13: Traduzione (opzionale, post-release)
 - [ ] wk translate init --to en --context
@@ -203,3 +205,5 @@
 **Session 2026-07-27**: Build HTML eseguita e verificata: `wk check` pulito, `wk stats` a 38.867 parole, output HTML generato correttamente con titolo, TOC e capitolo finale presenti. Primo snapshot `.writekit` creato per changelog/status futuri. Prossimo: build EPUB e preparazione release, senza riaprire teoria o casi nuovi.
 
 **Session 2026-07-29**: Build EPUB eseguita e verificata: `wk build epub` ha rigenerato snapshot/report e prodotto `build/The Authorized Corridor - Josephus Miller.epub`; `wk check` pulito dopo la build. Nessuna teoria riaperta, nessun nuovo caso aggiunto. Prossimo: preparazione release v1.0.0 con asset EPUB, Pages e aggiornamento DB progetto.
+
+**Session 2026-07-31**: Release sorgente italiana v1.0.0 preparata e pubblicata: rebuild finale HTML + EPUB, `docs/index.html` popolato per GitHub Pages, `VERSION` e `CHANGELOG.md` aggiunti, tag/release v1.0.0 con asset `the-authorized-corridor-it.epub`, Pages abilitate su `https://josephusm.github.io/the-authorized-corridor/`, DB progetto aggiornato a `completed`. Prossimo: aprire la fase traduzione inglese solo in una sessione dedicata, senza riaprire il sorgente IT.
