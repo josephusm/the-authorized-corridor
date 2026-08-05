@@ -1,0 +1,47 @@
+# Translation glossary — proper names and terms extracted from source project.
+# Fill in the "translation" field for each entry before translating.
+
+concepts:
+  - source: carrier
+    translation: "carrier"
+    notes: "Keep the English technical term already used in the Italian source."
+  - source: corridoio-autorizzato
+    translation: "authorized corridor"
+    notes: "Central concept; use lowercase in running text unless part of the title."
+  - source: gap-interno
+    translation: "internal gap"
+    notes: "Structural residue that cannot be exhausted by the scanner."
+  - source: provenance
+    translation: "provenance"
+    notes: "Keep as technical term."
+  - source: ri-discretizzazione
+    translation: "re-discretization"
+    notes: "Hyphenated form, used for reconstructing handles/categories without essentialism."
+  - source: ribosoma-stanco
+    translation: "tired ribosome"
+    notes: "Metaphor for exhausted translation/mediation."
+  - source: significante-ereditato
+    translation: "inherited signifier"
+    notes: "Term of art in the book's semiotic argument."
+  - source: significante-fluttuante
+    translation: "floating signifier"
+    notes: "Standard translation."
+  - source: vacancy
+    translation: "vacancy"
+    notes: "Keep the English term already used in source."
+  - source: verifica
+    translation: "verification"
+    notes: "Prefer verification over check when naming the concept."
+people:
+  - source: Josephus Miller
+    translation: "Josephus Miller"
+    notes: "Author name; do not translate."
+titles:
+  - source: The Authorized Corridor
+    context: title
+    translation: "The Authorized Corridor"
+    notes: "Already English."
+  - source: Verifica, provenance e resistenza illeggibile
+    context: subtitle
+    translation: "Verification, Provenance, and Illegible Resistance"
+    notes: "Use title case in metadata; lowercase concepts in running text."

@@ -115,7 +115,7 @@
 - [x] [2026-07-31] Aggiornamento DB progetti: `status=completed`, `version=1.0.0`, Pages URL
 
 ### Fase 13: Traduzione (opzionale, post-release)
-- [ ] wk translate init --to en --context
+- [x] [2026-08-05] wk translate init --to en --context; creata corsia `translations/en/`, compilato glossario 13/13, metadata/style EN normalizzati
 - [ ] Traduzione capitoli (un per sessione)
 - [ ] wk translate verify
 - [ ] Build e publish multilingua

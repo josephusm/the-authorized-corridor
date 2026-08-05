@@ -1,0 +1,10 @@
+narrator: first-person
+pov: first-person
+tense: present
+tone: "analytical, critical, rigorous but accessible"
+voice: "dry, pragmatic, not sterile academic prose"
+rules:
+  - "No empty academic jargon"
+  - "Concrete examples for every abstraction"
+  - "Simple words for complex ideas"
+  - "The personal voice is legitimate: this is an essay, not a manual"
