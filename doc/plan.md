@@ -117,6 +117,7 @@
 ### Fase 13: Traduzione (opzionale, post-release)
 - [x] [2026-08-05] wk translate init --to en --context; creata corsia `translations/en/`, compilato glossario 13/13, metadata/style EN normalizzati
 - [x] [2026-08-07] Tradotto `translations/en/manuscript/01-introduction.md` (Introduction); `wk check` pulito, `wk translate status` a 1/19
+- [x] [2026-08-09] Tradotto `translations/en/manuscript/02-ammissibilita-vs-transitabilita.md` (Admissibility vs Transitability); `wk check` pulito, `wk translate status` a 2/19; `wk translate verify` senza errori, solo warning noti su termini invarianti nel capitolo 1
 - [ ] Traduzione capitoli (un per sessione)
 - [ ] wk translate verify
 - [ ] Build e publish multilingua
