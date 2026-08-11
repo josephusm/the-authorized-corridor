@@ -118,6 +118,7 @@
 - [x] [2026-08-05] wk translate init --to en --context; creata corsia `translations/en/`, compilato glossario 13/13, metadata/style EN normalizzati
 - [x] [2026-08-07] Tradotto `translations/en/manuscript/01-introduction.md` (Introduction); `wk check` pulito, `wk translate status` a 1/19
 - [x] [2026-08-09] Tradotto `translations/en/manuscript/02-ammissibilita-vs-transitabilita.md` (Admissibility vs Transitability); `wk check` pulito, `wk translate status` a 2/19; `wk translate verify` senza errori, solo warning noti su termini invarianti nel capitolo 1
+- [x] [2026-08-11] Tradotto `translations/en/manuscript/03-la-genealogia-dello-strumento.md` (The Genealogy of the Tool); `wk check` pulito, `wk translate status` a 3/19; `wk translate verify` senza errori, solo warning noti su termini invarianti (`provenance`)
 - [ ] Traduzione capitoli (un per sessione)
 - [ ] wk translate verify
 - [ ] Build e publish multilingua
@@ -211,3 +212,5 @@
 **Session 2026-07-31**: Release sorgente italiana v1.0.0 preparata e pubblicata: rebuild finale HTML + EPUB, `docs/index.html` popolato per GitHub Pages, `VERSION` e `CHANGELOG.md` aggiunti, tag/release v1.0.0 con asset `the-authorized-corridor-it.epub`, Pages abilitate su `https://josephusm.github.io/the-authorized-corridor/`, DB progetto aggiornato a `completed`. Prossimo: aprire la fase traduzione inglese solo in una sessione dedicata, senza riaprire il sorgente IT.
 
 **Session 2026-08-07**: Tradotto il primo file della corsia inglese, `translations/en/manuscript/01-introduction.md`, mantenendo `source_path`/`source_hash`, glossario e voce asciutta del saggio. `wk check` pulito; `wk translate status` ora segna 1/19 tradotti; `wk translate verify` segnala solo warning su termini invarianti del glossario (`provenance`, `vacancy`) e sul termine `verifica` già mappato a `verification`, senza errori. Prossimo: tradurre `manuscript/02-ammissibilita-vs-transitabilita.md` in una sessione dedicata.
+
+**Session 2026-08-11**: Tradotto il terzo file della corsia inglese, `translations/en/manuscript/03-la-genealogia-dello-strumento.md`, mantenendo `source_path`/`source_hash`, frontmatter e glossario. Scelta lessicale stabile: `authorized corridor`, `verification`, `provenance`, `custodian`, `residue`, `admissibility`; titolo tradotto in `The Genealogy of the Tool`. `wk check` pulito; `wk translate status` ora segna 3/19 tradotti; `wk translate verify` senza errori, con warning solo sui termini invarianti già previsti. Prossimo: tradurre `manuscript/04-il-mito-della-trasparenza.md` in una sessione dedicata.
