@@ -124,6 +124,7 @@
 - [x] [2026-08-17] Tradotto `translations/en/manuscript/06-la-firma-ipoteca-la-voce-futura.md` (The Signature Mortgages Your Future Voice); `wk check` pulito, `wk translate status` a 6/19; `wk translate verify` senza errori, solo warning noti su termini invarianti/falsi positivi (`provenance`, `verifica` dentro `verification`)
 - [x] [2026-08-19] Tradotto `translations/en/manuscript/07-terza-categoria-tra-fluttuante-e-carrier.md` (A Third Category Between Floating Signifier and Carrier); `wk check` pulito, `wk translate status` a 7/19; `wk translate diff` allineato; `wk translate verify` senza errori, solo warning noti su termini invarianti (`carrier`)
 - [x] [2026-08-21] Tradotto `translations/en/manuscript/08-cattura-prima-della-formulazione.md` (Capture Before Formulation); `wk check` pulito, `wk translate status` a 8/19; `wk translate diff` allineato; `wk translate verify` senza errori, solo warning noti su termini invarianti/falsi positivi (`verifica` dentro `verification`)
+- [x] [2026-08-23] Tradotto `translations/en/manuscript/09-il-capro-espiatorio-epistemologico.md` (The Epistemological Scapegoat); `wk check` pulito, `wk translate status` a 9/19; `wk translate diff` allineato; `wk translate verify` senza errori, solo warning noti su termini invarianti (`carrier`)
 - [ ] Traduzione capitoli (un per sessione)
 - [ ] wk translate verify
 - [ ] Build e publish multilingua
