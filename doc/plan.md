@@ -127,6 +127,7 @@
 - [x] [2026-08-23] Tradotto `translations/en/manuscript/09-il-capro-espiatorio-epistemologico.md` (The Epistemological Scapegoat); `wk check` pulito, `wk translate status` a 9/19; `wk translate diff` allineato; `wk translate verify` senza errori, solo warning noti su termini invarianti (`carrier`)
 - [x] [2026-08-25] Tradotto `translations/en/manuscript/10-quando-il-corridoio-si-chiude.md` (When the Corridor Closes); `wk check` pulito, `wk translate status` a 10/19; `wk translate diff` allineato; `wk translate verify` senza errori, solo warning noti su termini invarianti (`carrier`, `provenance`, `vacancy`)
 - [x] [2026-08-27] Tradotto `translations/en/manuscript/11-vacancy.md` (Vacancy); preservato il passaggio dall’apertura minima alla sottrazione della compatibilità e il ponte verso lying flat; `wk check` pulito, `wk translate status` a 11/19, `wk translate diff` allineato; `wk translate verify` senza errori, solo warning noti sul termine invariante `vacancy`
+- [x] [2026-08-29] Tradotto `translations/en/manuscript/12-lying-flat-e-illeggibilita.md` (Lying Flat and Illegibility); mantenute distinte sottrazione, rassegnazione, sciopero senza foro e desertificazione, con il passaggio dalla diagnosi alla soglia selettiva; `wk check` pulito, `wk translate status` a 12/19, `wk translate diff` allineato; `wk translate verify` senza errori, solo warning noti sui termini invarianti (`carrier` nel capitolo 12)
 - [ ] Traduzione capitoli (un per sessione)
 - [ ] wk translate verify
 - [ ] Build e publish multilingua
