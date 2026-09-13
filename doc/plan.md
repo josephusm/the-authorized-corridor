@@ -138,6 +138,9 @@
 - [x] [2026-09-11] Traduzione capitoli completata (19/19; un capitolo per sessione)
 - [x] [2026-09-11] wk translate verify: 0 errori; restano solo warning noti su termini invarianti e falsi positivi
 - [ ] Build e publish multilingua
+  - [x] [2026-09-13] Validati e buildati HTML+EPUB IT/EN; `wk check` pulito su entrambe le corsie, traduzione 19/19 allineata, EPUB verificati.
+  - [x] [2026-09-13] Pubblicata release v1.1.0 con asset `the-authorized-corridor-it.epub` e `the-authorized-corridor-en.epub`; assemblati `docs/index.html` e `docs/en/index.html` con selettore lingua; traduzione EN registrata nel progetto.
+  - [ ] Verificare live GitHub Pages IT/EN: al termine della sessione il build legacy di Pages per `b3daa14` risultava ancora `building` e `/en/` rispondeva 404; non dichiarare chiusa la pubblicazione finché entrambe le pagine non sono leggibili.
 
 ## Note
 - Il saggio è stato concepito come un arco argomentativo, non una collezione di saggi separati
