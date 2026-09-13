@@ -137,10 +137,10 @@
 - [x] [2026-09-11] Tradotto `translations/en/manuscript/19-mappa-del-non-vedibile.md` (Map of the Non-visible); preservata la conclusione come mappa operativa, non riepilogo, mantenendo distinti gesto, record, standing, attuatore, custodia e leva sulla versione successiva; `wk check` pulito, `wk translate status` a 19/19, `wk translate diff` allineato; `wk translate verify` senza errori, solo warning noti sui termini invarianti (`carrier`, `vacancy`).
 - [x] [2026-09-11] Traduzione capitoli completata (19/19; un capitolo per sessione)
 - [x] [2026-09-11] wk translate verify: 0 errori; restano solo warning noti su termini invarianti e falsi positivi
-- [ ] Build e publish multilingua
-  - [x] [2026-09-13] Validati e buildati HTML+EPUB IT/EN; `wk check` pulito su entrambe le corsie, traduzione 19/19 allineata, EPUB verificati.
-  - [x] [2026-09-13] Pubblicata release v1.1.0 con asset `the-authorized-corridor-it.epub` e `the-authorized-corridor-en.epub`; assemblati `docs/index.html` e `docs/en/index.html` con selettore lingua; traduzione EN registrata nel progetto.
-  - [ ] Verificare live GitHub Pages IT/EN: al termine della sessione il build legacy di Pages per `b3daa14` risultava ancora `building` e `/en/` rispondeva 404; non dichiarare chiusa la pubblicazione finché entrambe le pagine non sono leggibili.
+- [x] [2026-09-13] Build e publish multilingua
+  - [x] Validati e buildati HTML+EPUB IT/EN; `wk check` pulito su entrambe le corsie, traduzione 19/19 allineata, EPUB verificati.
+  - [x] Pubblicata release v1.1.0 con asset `the-authorized-corridor-it.epub` e `the-authorized-corridor-en.epub`; assemblati `docs/index.html` e `docs/en/index.html` con selettore lingua; traduzione EN registrata nel progetto.
+  - [x] GitHub Pages IT/EN verificate live con screenshot dopo build pulito; aggiunto `.nojekyll` per servire direttamente gli HTML writekit.
 
 ## Note
 - Il saggio è stato concepito come un arco argomentativo, non una collezione di saggi separati
