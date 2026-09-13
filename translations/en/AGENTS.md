@@ -1,5 +1,8 @@
 <!-- writekit:start — DO NOT REMOVE THIS SECTION -->
-Read `node_modules/writekit/agents/instructions.md` before working on this project.
+Read `/usr/lib/node_modules/writekit/dist/agents/instructions.md` before working on this project.
+Read `/usr/lib/node_modules/writekit/dist/agents/types/essay.md` for type-specific rules.
+
+Also read `docs/writekit.md` for the full command and configuration reference.
 <!-- writekit:end -->
 
 ## Translation Project
